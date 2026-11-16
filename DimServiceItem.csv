@@ -1,0 +1,1494 @@
+ServiceItemKey,MerchantKey,ServiceItemID,ServiceItemName,ServiceCategoryName,StandardDurationMinutes,CurrentListPriceAmount,IsActive
+1,1,SVC-000001,Haircut,Cutting,45,57.92,True
+2,1,SVC-000002,Hair Color,Coloring,75,101.82,True
+3,1,SVC-000003,Partial Highlights,Coloring,120,123.64,True
+4,1,SVC-000004,Blowout,Styling,45,47.4,True
+5,1,SVC-000005,Special Occasion Styling,Styling,45,75.46,True
+6,2,SVC-000006,Classic Manicure,Manicure,35,36.43,True
+7,2,SVC-000007,Gel Manicure,Manicure,65,50.05,True
+8,2,SVC-000008,Classic Pedicure,Pedicure,65,58.12,True
+9,2,SVC-000009,Deluxe Pedicure,Pedicure,50,78.78,True
+10,2,SVC-000010,Acrylic Fill,Enhancements,60,66.35,True
+11,2,SVC-000011,Nail Art,Nail Art,30,29.79,True
+12,3,SVC-000012,Haircut,Cutting,45,66.46,True
+13,3,SVC-000013,Hair Color,Coloring,90,109.16,True
+14,3,SVC-000014,Partial Highlights,Coloring,105,132.27,True
+15,3,SVC-000015,Blowout,Styling,45,57.24,True
+16,3,SVC-000016,Special Occasion Styling,Styling,60,89.14,True
+17,3,SVC-000017,Deep Conditioning,Treatment,30,45.13,True
+18,4,SVC-000018,Signature Facial,Skincare,85,155.52,True
+19,4,SVC-000019,Advanced Facial,Skincare,105,237.43,True
+20,4,SVC-000020,Full Leg Wax,Hair Removal,85,129.10,True
+21,4,SVC-000021,Brow Tint,Brows & Lashes,20,59.25,True
+22,4,SVC-000022,Lash Lift,Brows & Lashes,85,138.65,True
+23,5,SVC-000023,Signature Facial,Skincare,85,117.02,True
+24,5,SVC-000024,Advanced Facial,Skincare,125,160.27,True
+25,5,SVC-000025,Brow Wax,Hair Removal,30,33.91,True
+26,5,SVC-000026,Brow Tint,Brows & Lashes,40,44.77,False
+27,5,SVC-000027,Lash Lift,Brows & Lashes,85,96.81,True
+28,5,SVC-000028,Chemical Peel,Skin Treatment,65,141.25,True
+29,6,SVC-000029,Haircut,Cutting,45,56.31,True
+30,6,SVC-000030,Hair Color,Coloring,105,113.79,True
+31,6,SVC-000031,Partial Highlights,Coloring,90,123.66,True
+32,6,SVC-000032,Blowout,Styling,30,55.44,True
+33,6,SVC-000033,Special Occasion Styling,Styling,60,87.86,True
+34,6,SVC-000034,Deep Conditioning,Treatment,15,44.54,True
+35,7,SVC-000035,Signature Facial,Skincare,85,145.47,True
+36,7,SVC-000036,Brow Wax,Hair Removal,50,44.72,True
+37,7,SVC-000037,Full Leg Wax,Hair Removal,85,121.04,True
+38,7,SVC-000038,Brow Tint,Brows & Lashes,40,61.50,True
+39,7,SVC-000039,Lash Lift,Brows & Lashes,85,139.07,True
+40,8,SVC-000040,Signature Facial,Skincare,65,144.64,True
+41,8,SVC-000041,Advanced Facial,Skincare,125,231.45,True
+42,8,SVC-000042,Brow Wax,Hair Removal,20,45.44,True
+43,8,SVC-000043,Brow Tint,Brows & Lashes,20,57.91,True
+44,8,SVC-000044,Lash Lift,Brows & Lashes,105,135.01,True
+45,8,SVC-000045,Chemical Peel,Skin Treatment,40,177.52,True
+46,9,SVC-000046,Haircut,Cutting,45,55.52,True
+47,9,SVC-000047,Hair Color,Coloring,90,101.52,True
+48,9,SVC-000048,Partial Highlights,Coloring,105,119.19,True
+49,9,SVC-000049,Full Highlights,Coloring,135,165.47,True
+50,9,SVC-000050,Blowout,Styling,45,47.4,True
+51,10,SVC-000051,Classic Haircut,Cutting,45,36.67,True
+52,10,SVC-000052,Skin Fade,Cutting,45,49.08,True
+53,10,SVC-000053,Beard Trim,Facial Hair,15,25.06,True
+54,10,SVC-000054,Haircut + Beard Trim,Combination,50,58.53,True
+55,10,SVC-000055,Hot Towel Shave,Shaving,35,41.81,True
+56,10,SVC-000056,Kids Haircut,Cutting,40,29.27,True
+57,11,SVC-000057,Classic Manicure,Manicure,35,38.49,True
+58,11,SVC-000058,Gel Manicure,Manicure,50,51.26,True
+59,11,SVC-000059,Acrylic Full Set,Enhancements,75,90.27,True
+60,11,SVC-000060,Acrylic Fill,Enhancements,45,60.52,True
+61,11,SVC-000061,Nail Art,Nail Art,15,29.76,True
+62,12,SVC-000062,Signature Facial,Skincare,65,127.01,True
+63,12,SVC-000063,Brow Wax,Hair Removal,30,37.45,True
+64,12,SVC-000064,Full Leg Wax,Hair Removal,85,108.40,True
+65,12,SVC-000065,Brow Tint,Brows & Lashes,20,47.81,True
+66,12,SVC-000066,Lash Lift,Brows & Lashes,105,121.01,True
+67,12,SVC-000067,Chemical Peel,Skin Treatment,85,154.07,True
+68,13,SVC-000068,Classic Manicure,Manicure,35,36.24,True
+69,13,SVC-000069,Gel Manicure,Manicure,50,51.62,True
+70,13,SVC-000070,Classic Pedicure,Pedicure,65,53.91,True
+71,13,SVC-000071,Deluxe Pedicure,Pedicure,65,72.2,True
+72,13,SVC-000072,Acrylic Full Set,Enhancements,75,85.76,True
+73,13,SVC-000073,Acrylic Fill,Enhancements,60,60.56,True
+74,13,SVC-000074,Nail Art,Nail Art,45,28.31,True
+75,14,SVC-000075,Classic Haircut,Cutting,30,34.4,True
+76,14,SVC-000076,Skin Fade,Cutting,45,41.85,True
+77,14,SVC-000077,Beard Trim,Facial Hair,35,23.3,True
+78,14,SVC-000078,Haircut + Beard Trim,Combination,65,49.89,True
+79,14,SVC-000079,Hot Towel Shave,Shaving,35,36.52,True
+80,14,SVC-000080,Kids Haircut,Cutting,40,27.42,True
+81,15,SVC-000081,Classic Manicure,Manicure,35,48.71,True
+82,15,SVC-000082,Gel Manicure,Manicure,50,64.46,True
+83,15,SVC-000083,Deluxe Pedicure,Pedicure,65,102.14,True
+84,15,SVC-000084,Acrylic Full Set,Enhancements,75,115.82,True
+85,15,SVC-000085,Acrylic Fill,Enhancements,60,78.99,True
+86,15,SVC-000086,Nail Art,Nail Art,15,39.26,True
+87,16,SVC-000087,Haircut,Cutting,60,74.47,True
+88,16,SVC-000088,Hair Color,Coloring,105,133.75,True
+89,16,SVC-000089,Partial Highlights,Coloring,120,147.09,True
+90,16,SVC-000090,Full Highlights,Coloring,150,207.49,True
+91,16,SVC-000091,Blowout,Styling,45,63.03,True
+92,16,SVC-000092,Special Occasion Styling,Styling,75,94.44,True
+93,16,SVC-000093,Deep Conditioning,Treatment,30,51.0,True
+94,17,SVC-000094,Classic Manicure,Manicure,35,31.22,True
+95,17,SVC-000095,Gel Manicure,Manicure,50,43.76,True
+96,17,SVC-000096,Classic Pedicure,Pedicure,50,45.75,True
+97,17,SVC-000097,Deluxe Pedicure,Pedicure,65,63.4,True
+98,17,SVC-000098,Acrylic Full Set,Enhancements,75,75.43,True
+99,17,SVC-000099,Acrylic Fill,Enhancements,60,52.83,True
+100,18,SVC-000100,Signature Facial,Skincare,85,156.77,True
+101,18,SVC-000101,Advanced Facial,Skincare,125,232.49,True
+102,18,SVC-000102,Brow Wax,Hair Removal,30,46.27,True
+103,18,SVC-000103,Full Leg Wax,Hair Removal,65,141.04,True
+104,18,SVC-000104,Brow Tint,Brows & Lashes,40,61.06,True
+105,18,SVC-000105,Lash Lift,Brows & Lashes,85,154.06,True
+106,18,SVC-000106,Chemical Peel,Skin Treatment,65,195.97,True
+107,19,SVC-000107,Advanced Facial,Skincare,125,206.02,True
+108,19,SVC-000108,Brow Wax,Hair Removal,30,42.53,True
+109,19,SVC-000109,Full Leg Wax,Hair Removal,85,120.28,True
+110,19,SVC-000110,Brow Tint,Brows & Lashes,40,52.65,True
+111,19,SVC-000111,Lash Lift,Brows & Lashes,105,132.54,True
+112,20,SVC-000112,Signature Facial,Skincare,85,139.51,True
+113,20,SVC-000113,Brow Wax,Hair Removal,20,42.92,True
+114,20,SVC-000114,Brow Tint,Brows & Lashes,20,55.17,True
+115,20,SVC-000115,Lash Lift,Brows & Lashes,85,135.82,True
+116,20,SVC-000116,Chemical Peel,Skin Treatment,65,173.82,True
+117,21,SVC-000117,Haircut,Cutting,45,56.19,True
+118,21,SVC-000118,Hair Color,Coloring,90,103.43,True
+119,21,SVC-000119,Partial Highlights,Coloring,90,126.92,True
+120,21,SVC-000120,Full Highlights,Coloring,135,164.74,True
+121,21,SVC-000121,Blowout,Styling,30,47.97,True
+122,21,SVC-000122,Special Occasion Styling,Styling,75,79.4,True
+123,21,SVC-000123,Deep Conditioning,Treatment,15,39.58,False
+124,22,SVC-000124,Classic Manicure,Manicure,35,37.31,False
+125,22,SVC-000125,Gel Manicure,Manicure,35,51.19,True
+126,22,SVC-000126,Deluxe Pedicure,Pedicure,65,79.78,True
+127,22,SVC-000127,Acrylic Full Set,Enhancements,90,91.76,True
+128,22,SVC-000128,Nail Art,Nail Art,30,28.77,True
+129,23,SVC-000129,Signature Facial,Skincare,85,116.06,True
+130,23,SVC-000130,Advanced Facial,Skincare,125,167.83,True
+131,23,SVC-000131,Brow Wax,Hair Removal,50,33.40,True
+132,23,SVC-000132,Full Leg Wax,Hair Removal,85,100.52,True
+133,23,SVC-000133,Brow Tint,Brows & Lashes,20,43.80,True
+134,23,SVC-000134,Lash Lift,Brows & Lashes,105,111.53,True
+135,24,SVC-000135,Haircut,Cutting,30,67.7,True
+136,24,SVC-000136,Hair Color,Coloring,90,110.02,True
+137,24,SVC-000137,Partial Highlights,Coloring,105,130.69,True
+138,24,SVC-000138,Blowout,Styling,60,56.79,True
+139,24,SVC-000139,Special Occasion Styling,Styling,75,94.93,True
+140,24,SVC-000140,Deep Conditioning,Treatment,30,48.28,True
+141,25,SVC-000141,Classic Haircut,Cutting,30,40.57,True
+142,25,SVC-000142,Skin Fade,Cutting,30,53.99,True
+143,25,SVC-000143,Beard Trim,Facial Hair,20,26.01,True
+144,25,SVC-000144,Haircut + Beard Trim,Combination,50,63.23,True
+145,25,SVC-000145,Hot Towel Shave,Shaving,35,45.15,True
+146,26,SVC-000146,Classic Haircut,Cutting,30,53.42,True
+147,26,SVC-000147,Skin Fade,Cutting,45,63.03,True
+148,26,SVC-000148,Beard Trim,Facial Hair,20,33.73,True
+149,26,SVC-000149,Haircut + Beard Trim,Combination,50,81.51,True
+150,26,SVC-000150,Hot Towel Shave,Shaving,20,54.06,True
+151,27,SVC-000151,Signature Facial,Skincare,105,172.67,True
+152,27,SVC-000152,Advanced Facial,Skincare,125,265.09,True
+153,27,SVC-000153,Brow Wax,Hair Removal,20,49.32,True
+154,27,SVC-000154,Full Leg Wax,Hair Removal,85,156.74,True
+155,27,SVC-000155,Brow Tint,Brows & Lashes,40,66.97,True
+156,27,SVC-000156,Chemical Peel,Skin Treatment,65,211.26,True
+157,28,SVC-000157,Haircut,Cutting,45,56.81,True
+158,28,SVC-000158,Hair Color,Coloring,105,107.83,True
+159,28,SVC-000159,Partial Highlights,Coloring,105,116.6,True
+160,28,SVC-000160,Full Highlights,Coloring,165,181.52,True
+161,28,SVC-000161,Blowout,Styling,45,50.72,True
+162,28,SVC-000162,Special Occasion Styling,Styling,60,80.1,True
+163,29,SVC-000163,Haircut,Cutting,60,58.92,True
+164,29,SVC-000164,Hair Color,Coloring,75,103.66,True
+165,29,SVC-000165,Partial Highlights,Coloring,120,134.74,True
+166,29,SVC-000166,Full Highlights,Coloring,135,188.04,True
+167,29,SVC-000167,Blowout,Styling,60,50.58,True
+168,29,SVC-000168,Deep Conditioning,Treatment,15,45.05,True
+169,30,SVC-000169,Signature Facial,Skincare,105,143.09,True
+170,30,SVC-000170,Advanced Facial,Skincare,125,195.28,True
+171,30,SVC-000171,Brow Wax,Hair Removal,50,39.77,True
+172,30,SVC-000172,Full Leg Wax,Hair Removal,65,113.60,True
+173,30,SVC-000173,Brow Tint,Brows & Lashes,40,51.52,True
+174,30,SVC-000174,Lash Lift,Brows & Lashes,85,126.50,True
+175,30,SVC-000175,Chemical Peel,Skin Treatment,40,167.09,True
+176,31,SVC-000176,Haircut,Cutting,45,75.71,True
+177,31,SVC-000177,Hair Color,Coloring,90,125.23,True
+178,31,SVC-000178,Full Highlights,Coloring,165,218.18,True
+179,31,SVC-000179,Blowout,Styling,45,64.27,True
+180,31,SVC-000180,Special Occasion Styling,Styling,75,104.53,True
+181,31,SVC-000181,Deep Conditioning,Treatment,45,52.73,True
+182,32,SVC-000182,Classic Haircut,Cutting,45,49.24,True
+183,32,SVC-000183,Skin Fade,Cutting,45,60.95,True
+184,32,SVC-000184,Beard Trim,Facial Hair,15,33.17,True
+185,32,SVC-000185,Haircut + Beard Trim,Combination,50,70.81,True
+186,32,SVC-000186,Hot Towel Shave,Shaving,35,51.52,True
+187,32,SVC-000187,Kids Haircut,Cutting,25,39.1,True
+188,33,SVC-000188,Classic Haircut,Cutting,45,54.21,True
+189,33,SVC-000189,Skin Fade,Cutting,45,69.18,True
+190,33,SVC-000190,Beard Trim,Facial Hair,20,34.72,True
+191,33,SVC-000191,Haircut + Beard Trim,Combination,35,82.59,True
+192,33,SVC-000192,Hot Towel Shave,Shaving,50,58.18,True
+193,33,SVC-000193,Kids Haircut,Cutting,25,44.35,True
+194,34,SVC-000194,Classic Manicure,Manicure,35,36.12,True
+195,34,SVC-000195,Gel Manicure,Manicure,50,50.38,True
+196,34,SVC-000196,Classic Pedicure,Pedicure,35,58.82,True
+197,34,SVC-000197,Deluxe Pedicure,Pedicure,65,78.61,True
+198,34,SVC-000198,Acrylic Full Set,Enhancements,90,88.92,True
+199,35,SVC-000199,Classic Manicure,Manicure,35,36.64,True
+200,35,SVC-000200,Classic Pedicure,Pedicure,50,56.11,True
+201,35,SVC-000201,Deluxe Pedicure,Pedicure,65,77.72,True
+202,35,SVC-000202,Acrylic Fill,Enhancements,75,57.13,True
+203,35,SVC-000203,Nail Art,Nail Art,30,27.47,True
+204,36,SVC-000204,Classic Haircut,Cutting,15,40.88,True
+205,36,SVC-000205,Skin Fade,Cutting,45,52.48,True
+206,36,SVC-000206,Beard Trim,Facial Hair,20,26.68,True
+207,36,SVC-000207,Haircut + Beard Trim,Combination,35,62.44,True
+208,36,SVC-000208,Hot Towel Shave,Shaving,20,46.46,True
+209,36,SVC-000209,Kids Haircut,Cutting,25,30.05,True
+210,37,SVC-000210,Classic Haircut,Cutting,45,51.09,True
+211,37,SVC-000211,Skin Fade,Cutting,30,64.95,True
+212,37,SVC-000212,Beard Trim,Facial Hair,35,33.44,True
+213,37,SVC-000213,Haircut + Beard Trim,Combination,50,74.54,True
+214,37,SVC-000214,Hot Towel Shave,Shaving,35,58.6,False
+215,37,SVC-000215,Kids Haircut,Cutting,25,39.32,True
+216,38,SVC-000216,Classic Haircut,Cutting,30,37.51,True
+217,38,SVC-000217,Beard Trim,Facial Hair,20,26.08,True
+218,38,SVC-000218,Haircut + Beard Trim,Combination,65,62.32,True
+219,38,SVC-000219,Hot Towel Shave,Shaving,50,41.73,True
+220,38,SVC-000220,Kids Haircut,Cutting,25,30.44,True
+221,39,SVC-000221,Signature Facial,Skincare,85,135.63,True
+222,39,SVC-000222,Advanced Facial,Skincare,145,189.66,True
+223,39,SVC-000223,Brow Wax,Hair Removal,30,38.55,True
+224,39,SVC-000224,Full Leg Wax,Hair Removal,85,118.69,True
+225,39,SVC-000225,Brow Tint,Brows & Lashes,65,52.04,True
+226,39,SVC-000226,Lash Lift,Brows & Lashes,85,125.82,True
+227,39,SVC-000227,Chemical Peel,Skin Treatment,65,155.32,True
+228,40,SVC-000228,Classic Manicure,Manicure,20,39.7,True
+229,40,SVC-000229,Gel Manicure,Manicure,50,57.12,True
+230,40,SVC-000230,Classic Pedicure,Pedicure,50,59.86,True
+231,40,SVC-000231,Deluxe Pedicure,Pedicure,50,80.19,True
+232,40,SVC-000232,Acrylic Fill,Enhancements,60,67.19,True
+233,40,SVC-000233,Nail Art,Nail Art,30,30.97,True
+234,41,SVC-000234,Haircut,Cutting,60,73.24,True
+235,41,SVC-000235,Hair Color,Coloring,90,119.64,True
+236,41,SVC-000236,Partial Highlights,Coloring,105,146.79,True
+237,41,SVC-000237,Blowout,Styling,60,63.26,True
+238,41,SVC-000238,Special Occasion Styling,Styling,60,102.31,True
+239,41,SVC-000239,Deep Conditioning,Treatment,30,51.62,True
+240,42,SVC-000240,Haircut,Cutting,60,57.0,True
+241,42,SVC-000241,Hair Color,Coloring,90,100.43,True
+242,42,SVC-000242,Partial Highlights,Coloring,120,127.61,True
+243,42,SVC-000243,Full Highlights,Coloring,150,170.08,True
+244,42,SVC-000244,Blowout,Styling,45,49.06,True
+245,42,SVC-000245,Special Occasion Styling,Styling,75,78.45,True
+246,42,SVC-000246,Deep Conditioning,Treatment,30,42.01,True
+247,43,SVC-000247,Haircut,Cutting,30,62.47,True
+248,43,SVC-000248,Hair Color,Coloring,90,113.28,True
+249,43,SVC-000249,Partial Highlights,Coloring,105,134.76,True
+250,43,SVC-000250,Full Highlights,Coloring,150,202.56,True
+251,43,SVC-000251,Blowout,Styling,60,59.26,True
+252,43,SVC-000252,Special Occasion Styling,Styling,45,94.63,True
+253,43,SVC-000253,Deep Conditioning,Treatment,15,46.02,True
+254,44,SVC-000254,Haircut,Cutting,45,57.8,True
+255,44,SVC-000255,Hair Color,Coloring,90,98.39,True
+256,44,SVC-000256,Partial Highlights,Coloring,105,120.43,True
+257,44,SVC-000257,Full Highlights,Coloring,165,170.26,True
+258,44,SVC-000258,Blowout,Styling,30,50.98,True
+259,44,SVC-000259,Special Occasion Styling,Styling,75,82.78,True
+260,44,SVC-000260,Deep Conditioning,Treatment,45,39.99,True
+261,45,SVC-000261,Classic Haircut,Cutting,30,47.0,True
+262,45,SVC-000262,Skin Fade,Cutting,60,55.97,True
+263,45,SVC-000263,Beard Trim,Facial Hair,20,28.43,True
+264,45,SVC-000264,Haircut + Beard Trim,Combination,50,72.95,True
+265,45,SVC-000265,Hot Towel Shave,Shaving,20,50.1,False
+266,45,SVC-000266,Kids Haircut,Cutting,25,35.38,True
+267,46,SVC-000267,Haircut,Cutting,45,54.48,True
+268,46,SVC-000268,Hair Color,Coloring,75,99.44,True
+269,46,SVC-000269,Partial Highlights,Coloring,105,109.29,True
+270,46,SVC-000270,Full Highlights,Coloring,165,159.4,True
+271,46,SVC-000271,Blowout,Styling,30,47.62,True
+272,46,SVC-000272,Special Occasion Styling,Styling,60,79.05,True
+273,46,SVC-000273,Deep Conditioning,Treatment,30,37.01,True
+274,47,SVC-000274,Classic Manicure,Manicure,35,34.55,True
+275,47,SVC-000275,Gel Manicure,Manicure,65,48.55,True
+276,47,SVC-000276,Classic Pedicure,Pedicure,50,55.52,True
+277,47,SVC-000277,Acrylic Full Set,Enhancements,75,84.88,True
+278,47,SVC-000278,Nail Art,Nail Art,15,29.19,True
+279,48,SVC-000279,Classic Haircut,Cutting,30,35.77,True
+280,48,SVC-000280,Skin Fade,Cutting,45,44.95,True
+281,48,SVC-000281,Beard Trim,Facial Hair,20,24.15,True
+282,48,SVC-000282,Haircut + Beard Trim,Combination,35,56.81,True
+283,48,SVC-000283,Hot Towel Shave,Shaving,50,41.64,True
+284,48,SVC-000284,Kids Haircut,Cutting,25,30.86,True
+285,49,SVC-000285,Classic Haircut,Cutting,15,39.06,True
+286,49,SVC-000286,Skin Fade,Cutting,45,49.69,True
+287,49,SVC-000287,Beard Trim,Facial Hair,20,27.94,True
+288,49,SVC-000288,Haircut + Beard Trim,Combination,50,60.66,True
+289,49,SVC-000289,Hot Towel Shave,Shaving,50,43.94,True
+290,49,SVC-000290,Kids Haircut,Cutting,40,33.82,True
+291,50,SVC-000291,Classic Manicure,Manicure,35,51.76,True
+292,50,SVC-000292,Gel Manicure,Manicure,50,68.68,True
+293,50,SVC-000293,Classic Pedicure,Pedicure,35,78.54,True
+294,50,SVC-000294,Acrylic Full Set,Enhancements,90,121.25,True
+295,50,SVC-000295,Acrylic Fill,Enhancements,45,85.99,True
+296,51,SVC-000296,Classic Manicure,Manicure,35,39.23,True
+297,51,SVC-000297,Gel Manicure,Manicure,50,54.64,True
+298,51,SVC-000298,Classic Pedicure,Pedicure,50,60.01,True
+299,51,SVC-000299,Deluxe Pedicure,Pedicure,65,82.84,True
+300,51,SVC-000300,Acrylic Fill,Enhancements,60,62.24,True
+301,51,SVC-000301,Nail Art,Nail Art,30,30.16,True
+302,52,SVC-000302,Classic Manicure,Manicure,35,28.61,True
+303,52,SVC-000303,Gel Manicure,Manicure,65,39.42,True
+304,52,SVC-000304,Deluxe Pedicure,Pedicure,65,59.89,True
+305,52,SVC-000305,Acrylic Full Set,Enhancements,75,73.03,True
+306,52,SVC-000306,Nail Art,Nail Art,30,25.62,True
+307,53,SVC-000307,Signature Facial,Skincare,85,127.12,True
+308,53,SVC-000308,Advanced Facial,Skincare,145,194.85,True
+309,53,SVC-000309,Full Leg Wax,Hair Removal,105,113.37,True
+310,53,SVC-000310,Brow Tint,Brows & Lashes,65,50.36,True
+311,53,SVC-000311,Lash Lift,Brows & Lashes,105,110.08,True
+312,53,SVC-000312,Chemical Peel,Skin Treatment,65,149.67,True
+313,54,SVC-000313,Classic Manicure,Manicure,35,37.02,True
+314,54,SVC-000314,Gel Manicure,Manicure,35,55.74,True
+315,54,SVC-000315,Classic Pedicure,Pedicure,50,58.8,True
+316,54,SVC-000316,Deluxe Pedicure,Pedicure,80,78.17,True
+317,54,SVC-000317,Acrylic Full Set,Enhancements,75,86.67,False
+318,54,SVC-000318,Acrylic Fill,Enhancements,60,61.11,True
+319,54,SVC-000319,Nail Art,Nail Art,30,31.51,True
+320,55,SVC-000320,Classic Manicure,Manicure,35,31.22,True
+321,55,SVC-000321,Gel Manicure,Manicure,65,44.47,True
+322,55,SVC-000322,Classic Pedicure,Pedicure,65,48.96,True
+323,55,SVC-000323,Deluxe Pedicure,Pedicure,65,71.94,True
+324,55,SVC-000324,Acrylic Full Set,Enhancements,75,76.24,True
+325,55,SVC-000325,Acrylic Fill,Enhancements,45,57.91,True
+326,55,SVC-000326,Nail Art,Nail Art,15,28.65,True
+327,56,SVC-000327,Classic Haircut,Cutting,30,37.99,True
+328,56,SVC-000328,Skin Fade,Cutting,60,46.33,True
+329,56,SVC-000329,Beard Trim,Facial Hair,15,25.05,True
+330,56,SVC-000330,Haircut + Beard Trim,Combination,65,57.66,True
+331,56,SVC-000331,Hot Towel Shave,Shaving,20,43.08,True
+332,56,SVC-000332,Kids Haircut,Cutting,25,29.28,True
+333,57,SVC-000333,Classic Manicure,Manicure,20,30.68,True
+334,57,SVC-000334,Gel Manicure,Manicure,50,41.17,True
+335,57,SVC-000335,Classic Pedicure,Pedicure,50,46.74,True
+336,57,SVC-000336,Deluxe Pedicure,Pedicure,65,63.46,True
+337,57,SVC-000337,Acrylic Fill,Enhancements,75,51.29,True
+338,57,SVC-000338,Nail Art,Nail Art,30,24.38,True
+339,58,SVC-000339,Classic Haircut,Cutting,30,49.93,True
+340,58,SVC-000340,Skin Fade,Cutting,45,64.46,True
+341,58,SVC-000341,Beard Trim,Facial Hair,20,33.87,True
+342,58,SVC-000342,Haircut + Beard Trim,Combination,50,75.65,True
+343,58,SVC-000343,Hot Towel Shave,Shaving,35,53.54,True
+344,58,SVC-000344,Kids Haircut,Cutting,25,42.27,True
+345,59,SVC-000345,Classic Haircut,Cutting,15,42.66,False
+346,59,SVC-000346,Skin Fade,Cutting,60,49.92,True
+347,59,SVC-000347,Beard Trim,Facial Hair,15,26.33,True
+348,59,SVC-000348,Haircut + Beard Trim,Combination,50,59.05,True
+349,59,SVC-000349,Hot Towel Shave,Shaving,35,42.76,True
+350,59,SVC-000350,Kids Haircut,Cutting,25,30.35,True
+351,60,SVC-000351,Classic Haircut,Cutting,30,43.79,True
+352,60,SVC-000352,Skin Fade,Cutting,30,56.61,True
+353,60,SVC-000353,Beard Trim,Facial Hair,15,27.56,True
+354,60,SVC-000354,Hot Towel Shave,Shaving,35,48.74,True
+355,60,SVC-000355,Kids Haircut,Cutting,40,35.69,True
+356,61,SVC-000356,Signature Facial,Skincare,65,133.79,True
+357,61,SVC-000357,Advanced Facial,Skincare,125,203.03,True
+358,61,SVC-000358,Brow Wax,Hair Removal,20,40.28,True
+359,61,SVC-000359,Full Leg Wax,Hair Removal,85,113.87,True
+360,61,SVC-000360,Brow Tint,Brows & Lashes,40,49.78,True
+361,61,SVC-000361,Lash Lift,Brows & Lashes,85,121.27,True
+362,62,SVC-000362,Signature Facial,Skincare,65,140.77,True
+363,62,SVC-000363,Advanced Facial,Skincare,125,226.27,True
+364,62,SVC-000364,Brow Wax,Hair Removal,30,43.71,True
+365,62,SVC-000365,Full Leg Wax,Hair Removal,105,116.85,False
+366,62,SVC-000366,Brow Tint,Brows & Lashes,20,56.41,True
+367,62,SVC-000367,Lash Lift,Brows & Lashes,85,132.57,True
+368,62,SVC-000368,Chemical Peel,Skin Treatment,40,174.69,True
+369,63,SVC-000369,Signature Facial,Skincare,85,151.09,True
+370,63,SVC-000370,Advanced Facial,Skincare,105,210.56,True
+371,63,SVC-000371,Brow Wax,Hair Removal,50,39.63,True
+372,63,SVC-000372,Brow Tint,Brows & Lashes,40,60.30,True
+373,63,SVC-000373,Lash Lift,Brows & Lashes,105,125.47,False
+374,63,SVC-000374,Chemical Peel,Skin Treatment,65,168.31,True
+375,64,SVC-000375,Haircut,Cutting,30,65.11,True
+376,64,SVC-000376,Hair Color,Coloring,75,115.76,True
+377,64,SVC-000377,Partial Highlights,Coloring,120,145.88,True
+378,64,SVC-000378,Full Highlights,Coloring,135,185.86,True
+379,64,SVC-000379,Blowout,Styling,60,54.83,True
+380,64,SVC-000380,Special Occasion Styling,Styling,60,93.2,True
+381,64,SVC-000381,Deep Conditioning,Treatment,30,47.1,True
+382,65,SVC-000382,Classic Manicure,Manicure,35,36.45,True
+383,65,SVC-000383,Gel Manicure,Manicure,65,51.33,True
+384,65,SVC-000384,Classic Pedicure,Pedicure,50,52.76,True
+385,65,SVC-000385,Deluxe Pedicure,Pedicure,65,75.78,True
+386,65,SVC-000386,Acrylic Full Set,Enhancements,75,88.61,True
+387,65,SVC-000387,Acrylic Fill,Enhancements,75,58.93,True
+388,66,SVC-000388,Signature Facial,Skincare,85,149.22,True
+389,66,SVC-000389,Advanced Facial,Skincare,125,223.49,True
+390,66,SVC-000390,Brow Wax,Hair Removal,30,41.25,True
+391,66,SVC-000391,Brow Tint,Brows & Lashes,20,61.15,True
+392,66,SVC-000392,Lash Lift,Brows & Lashes,85,131.70,True
+393,66,SVC-000393,Chemical Peel,Skin Treatment,65,172.58,True
+394,67,SVC-000394,Classic Manicure,Manicure,50,36.59,True
+395,67,SVC-000395,Gel Manicure,Manicure,50,51.16,True
+396,67,SVC-000396,Acrylic Full Set,Enhancements,90,83.13,True
+397,67,SVC-000397,Acrylic Fill,Enhancements,60,60.83,True
+398,67,SVC-000398,Nail Art,Nail Art,15,28.33,True
+399,68,SVC-000399,Haircut,Cutting,60,70.48,True
+400,68,SVC-000400,Hair Color,Coloring,75,124.36,True
+401,68,SVC-000401,Partial Highlights,Coloring,105,147.62,True
+402,68,SVC-000402,Full Highlights,Coloring,150,219.51,True
+403,68,SVC-000403,Blowout,Styling,45,63.89,True
+404,68,SVC-000404,Special Occasion Styling,Styling,60,106.74,True
+405,68,SVC-000405,Deep Conditioning,Treatment,30,49.12,True
+406,69,SVC-000406,Classic Haircut,Cutting,30,31.72,True
+407,69,SVC-000407,Skin Fade,Cutting,45,41.41,True
+408,69,SVC-000408,Beard Trim,Facial Hair,20,21.93,True
+409,69,SVC-000409,Haircut + Beard Trim,Combination,50,53.57,True
+410,69,SVC-000410,Hot Towel Shave,Shaving,35,38.9,True
+411,69,SVC-000411,Kids Haircut,Cutting,40,27.78,True
+412,70,SVC-000412,Classic Haircut,Cutting,30,43.33,True
+413,70,SVC-000413,Skin Fade,Cutting,45,55.25,True
+414,70,SVC-000414,Beard Trim,Facial Hair,20,28.24,True
+415,70,SVC-000415,Haircut + Beard Trim,Combination,65,65.64,True
+416,70,SVC-000416,Hot Towel Shave,Shaving,50,47.57,True
+417,70,SVC-000417,Kids Haircut,Cutting,40,36.8,True
+418,71,SVC-000418,Classic Haircut,Cutting,15,36.27,True
+419,71,SVC-000419,Skin Fade,Cutting,60,46.32,True
+420,71,SVC-000420,Beard Trim,Facial Hair,20,23.58,True
+421,71,SVC-000421,Haircut + Beard Trim,Combination,65,55.45,True
+422,71,SVC-000422,Hot Towel Shave,Shaving,35,39.51,True
+423,71,SVC-000423,Kids Haircut,Cutting,15,27.78,True
+424,72,SVC-000424,Haircut,Cutting,45,53.81,True
+425,72,SVC-000425,Hair Color,Coloring,75,87.15,True
+426,72,SVC-000426,Full Highlights,Coloring,150,162.23,True
+427,72,SVC-000427,Blowout,Styling,30,47.45,True
+428,72,SVC-000428,Special Occasion Styling,Styling,45,73.96,True
+429,73,SVC-000429,Haircut,Cutting,60,54.81,True
+430,73,SVC-000430,Hair Color,Coloring,75,100.96,True
+431,73,SVC-000431,Partial Highlights,Coloring,105,124.39,True
+432,73,SVC-000432,Blowout,Styling,30,52.35,True
+433,73,SVC-000433,Special Occasion Styling,Styling,60,83.91,True
+434,74,SVC-000434,Signature Facial,Skincare,85,178.10,True
+435,74,SVC-000435,Brow Wax,Hair Removal,30,51.61,True
+436,74,SVC-000436,Brow Tint,Brows & Lashes,40,67.42,True
+437,74,SVC-000437,Lash Lift,Brows & Lashes,65,165.47,True
+438,74,SVC-000438,Chemical Peel,Skin Treatment,65,203.74,True
+439,75,SVC-000439,Classic Manicure,Manicure,50,36.43,True
+440,75,SVC-000440,Gel Manicure,Manicure,50,51.44,True
+441,75,SVC-000441,Classic Pedicure,Pedicure,50,59.26,True
+442,75,SVC-000442,Deluxe Pedicure,Pedicure,50,82.33,True
+443,75,SVC-000443,Acrylic Full Set,Enhancements,90,89.0,True
+444,75,SVC-000444,Acrylic Fill,Enhancements,45,66.28,True
+445,76,SVC-000445,Classic Haircut,Cutting,15,49.12,True
+446,76,SVC-000446,Skin Fade,Cutting,45,56.3,True
+447,76,SVC-000447,Beard Trim,Facial Hair,20,29.67,True
+448,76,SVC-000448,Haircut + Beard Trim,Combination,50,67.79,True
+449,76,SVC-000449,Hot Towel Shave,Shaving,20,50.03,True
+450,76,SVC-000450,Kids Haircut,Cutting,15,38.19,True
+451,77,SVC-000451,Signature Facial,Skincare,85,113.10,True
+452,77,SVC-000452,Advanced Facial,Skincare,105,177.77,True
+453,77,SVC-000453,Brow Wax,Hair Removal,30,33.98,True
+454,77,SVC-000454,Full Leg Wax,Hair Removal,85,98.19,True
+455,77,SVC-000455,Brow Tint,Brows & Lashes,65,44.53,True
+456,77,SVC-000456,Lash Lift,Brows & Lashes,65,109.56,True
+457,78,SVC-000457,Classic Haircut,Cutting,45,46.64,True
+458,78,SVC-000458,Skin Fade,Cutting,45,54.98,True
+459,78,SVC-000459,Beard Trim,Facial Hair,20,27.47,True
+460,78,SVC-000460,Haircut + Beard Trim,Combination,35,69.7,True
+461,78,SVC-000461,Hot Towel Shave,Shaving,20,47.58,True
+462,78,SVC-000462,Kids Haircut,Cutting,25,35.17,True
+463,79,SVC-000463,Haircut,Cutting,30,48.87,True
+464,79,SVC-000464,Partial Highlights,Coloring,90,103.46,True
+465,79,SVC-000465,Full Highlights,Coloring,150,151.26,True
+466,79,SVC-000466,Blowout,Styling,45,44.13,True
+467,79,SVC-000467,Special Occasion Styling,Styling,60,68.02,True
+468,79,SVC-000468,Deep Conditioning,Treatment,30,33.64,True
+469,80,SVC-000469,Signature Facial,Skincare,65,129.89,True
+470,80,SVC-000470,Advanced Facial,Skincare,105,198.28,False
+471,80,SVC-000471,Brow Wax,Hair Removal,50,38.30,False
+472,80,SVC-000472,Full Leg Wax,Hair Removal,65,119.95,True
+473,80,SVC-000473,Brow Tint,Brows & Lashes,20,53.94,True
+474,80,SVC-000474,Lash Lift,Brows & Lashes,85,127.16,True
+475,80,SVC-000475,Chemical Peel,Skin Treatment,40,151.05,True
+476,81,SVC-000476,Haircut,Cutting,45,69.61,True
+477,81,SVC-000477,Hair Color,Coloring,90,121.99,True
+478,81,SVC-000478,Partial Highlights,Coloring,120,143.32,True
+479,81,SVC-000479,Full Highlights,Coloring,165,204.1,True
+480,81,SVC-000480,Blowout,Styling,45,57.77,True
+481,81,SVC-000481,Special Occasion Styling,Styling,75,98.41,True
+482,81,SVC-000482,Deep Conditioning,Treatment,30,51.6,True
+483,82,SVC-000483,Classic Haircut,Cutting,30,35.08,True
+484,82,SVC-000484,Skin Fade,Cutting,30,43.84,True
+485,82,SVC-000485,Beard Trim,Facial Hair,20,22.52,True
+486,82,SVC-000486,Haircut + Beard Trim,Combination,50,49.65,False
+487,82,SVC-000487,Hot Towel Shave,Shaving,35,37.65,True
+488,82,SVC-000488,Kids Haircut,Cutting,40,27.41,True
+489,83,SVC-000489,Haircut,Cutting,30,72.11,True
+490,83,SVC-000490,Hair Color,Coloring,90,138.09,True
+491,83,SVC-000491,Partial Highlights,Coloring,105,157.0,True
+492,83,SVC-000492,Full Highlights,Coloring,150,226.66,True
+493,83,SVC-000493,Blowout,Styling,45,66.65,True
+494,83,SVC-000494,Deep Conditioning,Treatment,45,53.78,True
+495,84,SVC-000495,Classic Haircut,Cutting,30,39.31,True
+496,84,SVC-000496,Skin Fade,Cutting,45,50.2,True
+497,84,SVC-000497,Beard Trim,Facial Hair,15,26.13,True
+498,84,SVC-000498,Haircut + Beard Trim,Combination,50,62.98,True
+499,84,SVC-000499,Hot Towel Shave,Shaving,50,44.01,True
+500,84,SVC-000500,Kids Haircut,Cutting,15,31.19,True
+501,85,SVC-000501,Advanced Facial,Skincare,145,205.59,True
+502,85,SVC-000502,Brow Wax,Hair Removal,30,40.38,True
+503,85,SVC-000503,Full Leg Wax,Hair Removal,85,115.24,True
+504,85,SVC-000504,Brow Tint,Brows & Lashes,40,55.05,True
+505,85,SVC-000505,Lash Lift,Brows & Lashes,105,130.27,True
+506,85,SVC-000506,Chemical Peel,Skin Treatment,65,181.45,True
+507,86,SVC-000507,Signature Facial,Skincare,65,180.81,True
+508,86,SVC-000508,Advanced Facial,Skincare,125,274.64,True
+509,86,SVC-000509,Brow Wax,Hair Removal,30,51.90,True
+510,86,SVC-000510,Full Leg Wax,Hair Removal,105,146.12,True
+511,86,SVC-000511,Brow Tint,Brows & Lashes,40,68.49,True
+512,86,SVC-000512,Lash Lift,Brows & Lashes,105,150.52,True
+513,86,SVC-000513,Chemical Peel,Skin Treatment,65,206.45,True
+514,87,SVC-000514,Signature Facial,Skincare,85,104.50,True
+515,87,SVC-000515,Advanced Facial,Skincare,125,146.14,True
+516,87,SVC-000516,Brow Wax,Hair Removal,30,29.88,True
+517,87,SVC-000517,Full Leg Wax,Hair Removal,85,81.47,True
+518,87,SVC-000518,Chemical Peel,Skin Treatment,65,118.40,True
+519,88,SVC-000519,Haircut,Cutting,45,73.18,True
+520,88,SVC-000520,Hair Color,Coloring,75,122.09,True
+521,88,SVC-000521,Partial Highlights,Coloring,120,150.86,True
+522,88,SVC-000522,Full Highlights,Coloring,150,210.67,True
+523,88,SVC-000523,Special Occasion Styling,Styling,60,98.1,True
+524,89,SVC-000524,Classic Manicure,Manicure,20,38.24,True
+525,89,SVC-000525,Classic Pedicure,Pedicure,35,54.67,True
+526,89,SVC-000526,Acrylic Full Set,Enhancements,75,86.43,True
+527,89,SVC-000527,Acrylic Fill,Enhancements,60,61.44,True
+528,89,SVC-000528,Nail Art,Nail Art,30,28.76,True
+529,90,SVC-000529,Classic Haircut,Cutting,30,47.86,True
+530,90,SVC-000530,Skin Fade,Cutting,30,57.77,False
+531,90,SVC-000531,Beard Trim,Facial Hair,15,30.55,True
+532,90,SVC-000532,Haircut + Beard Trim,Combination,35,67.95,True
+533,90,SVC-000533,Kids Haircut,Cutting,25,35.28,True
+534,91,SVC-000534,Haircut,Cutting,45,59.99,True
+535,91,SVC-000535,Hair Color,Coloring,90,107.78,True
+536,91,SVC-000536,Partial Highlights,Coloring,105,129.0,True
+537,91,SVC-000537,Full Highlights,Coloring,150,193.99,True
+538,91,SVC-000538,Blowout,Styling,45,54.24,True
+539,91,SVC-000539,Special Occasion Styling,Styling,60,85.27,False
+540,91,SVC-000540,Deep Conditioning,Treatment,30,44.86,True
+541,92,SVC-000541,Advanced Facial,Skincare,145,191.45,True
+542,92,SVC-000542,Brow Wax,Hair Removal,30,36.80,False
+543,92,SVC-000543,Full Leg Wax,Hair Removal,85,105.41,True
+544,92,SVC-000544,Brow Tint,Brows & Lashes,20,49.32,True
+545,92,SVC-000545,Lash Lift,Brows & Lashes,105,118.18,True
+546,93,SVC-000546,Signature Facial,Skincare,85,129.09,True
+547,93,SVC-000547,Advanced Facial,Skincare,105,203.60,True
+548,93,SVC-000548,Brow Wax,Hair Removal,30,38.27,True
+549,93,SVC-000549,Brow Tint,Brows & Lashes,20,48.79,True
+550,93,SVC-000550,Lash Lift,Brows & Lashes,105,121.28,True
+551,93,SVC-000551,Chemical Peel,Skin Treatment,65,150.18,True
+552,94,SVC-000552,Haircut,Cutting,60,58.86,True
+553,94,SVC-000553,Hair Color,Coloring,90,117.42,True
+554,94,SVC-000554,Full Highlights,Coloring,165,179.83,True
+555,94,SVC-000555,Blowout,Styling,45,57.79,False
+556,94,SVC-000556,Special Occasion Styling,Styling,60,92.31,True
+557,94,SVC-000557,Deep Conditioning,Treatment,15,45.1,True
+558,95,SVC-000558,Classic Haircut,Cutting,30,38.73,True
+559,95,SVC-000559,Skin Fade,Cutting,60,52.13,True
+560,95,SVC-000560,Beard Trim,Facial Hair,20,26.12,True
+561,95,SVC-000561,Haircut + Beard Trim,Combination,50,63.06,True
+562,95,SVC-000562,Hot Towel Shave,Shaving,20,44.07,True
+563,95,SVC-000563,Kids Haircut,Cutting,25,32.18,True
+564,96,SVC-000564,Signature Facial,Skincare,65,149.08,True
+565,96,SVC-000565,Advanced Facial,Skincare,125,201.43,True
+566,96,SVC-000566,Brow Wax,Hair Removal,30,41.00,True
+567,96,SVC-000567,Full Leg Wax,Hair Removal,85,119.40,True
+568,96,SVC-000568,Brow Tint,Brows & Lashes,40,54.69,True
+569,96,SVC-000569,Lash Lift,Brows & Lashes,85,123.44,True
+570,96,SVC-000570,Chemical Peel,Skin Treatment,65,165.36,True
+571,97,SVC-000571,Haircut,Cutting,45,68.29,True
+572,97,SVC-000572,Hair Color,Coloring,75,122.7,True
+573,97,SVC-000573,Partial Highlights,Coloring,120,145.57,True
+574,97,SVC-000574,Full Highlights,Coloring,165,206.23,True
+575,97,SVC-000575,Special Occasion Styling,Styling,60,93.09,True
+576,97,SVC-000576,Deep Conditioning,Treatment,45,49.33,True
+577,98,SVC-000577,Classic Haircut,Cutting,30,42.56,True
+578,98,SVC-000578,Skin Fade,Cutting,60,50.48,True
+579,98,SVC-000579,Beard Trim,Facial Hair,20,26.95,True
+580,98,SVC-000580,Haircut + Beard Trim,Combination,50,62.63,True
+581,98,SVC-000581,Hot Towel Shave,Shaving,35,43.82,True
+582,98,SVC-000582,Kids Haircut,Cutting,40,33.68,False
+583,99,SVC-000583,Signature Facial,Skincare,105,119.90,True
+584,99,SVC-000584,Advanced Facial,Skincare,145,188.40,True
+585,99,SVC-000585,Full Leg Wax,Hair Removal,65,103.68,True
+586,99,SVC-000586,Brow Tint,Brows & Lashes,40,49.83,True
+587,99,SVC-000587,Lash Lift,Brows & Lashes,105,107.44,True
+588,100,SVC-000588,Haircut,Cutting,60,77.94,True
+589,100,SVC-000589,Hair Color,Coloring,90,139.12,True
+590,100,SVC-000590,Partial Highlights,Coloring,120,167.84,True
+591,100,SVC-000591,Full Highlights,Coloring,150,237.1,True
+592,100,SVC-000592,Blowout,Styling,45,66.36,True
+593,100,SVC-000593,Special Occasion Styling,Styling,60,102.29,True
+594,100,SVC-000594,Deep Conditioning,Treatment,30,53.36,True
+595,101,SVC-000595,Signature Facial,Skincare,105,110.87,True
+596,101,SVC-000596,Advanced Facial,Skincare,105,157.80,True
+597,101,SVC-000597,Brow Wax,Hair Removal,30,31.30,True
+598,101,SVC-000598,Full Leg Wax,Hair Removal,85,92.06,True
+599,101,SVC-000599,Brow Tint,Brows & Lashes,40,41.38,True
+600,102,SVC-000600,Haircut,Cutting,45,62.88,True
+601,102,SVC-000601,Hair Color,Coloring,90,112.6,True
+602,102,SVC-000602,Partial Highlights,Coloring,105,125.61,True
+603,102,SVC-000603,Full Highlights,Coloring,150,175.29,True
+604,102,SVC-000604,Blowout,Styling,45,53.79,False
+605,102,SVC-000605,Special Occasion Styling,Styling,75,87.5,True
+606,103,SVC-000606,Classic Haircut,Cutting,30,48.87,True
+607,103,SVC-000607,Skin Fade,Cutting,45,58.24,True
+608,103,SVC-000608,Beard Trim,Facial Hair,35,33.43,True
+609,103,SVC-000609,Haircut + Beard Trim,Combination,50,71.48,True
+610,103,SVC-000610,Hot Towel Shave,Shaving,35,50.0,True
+611,103,SVC-000611,Kids Haircut,Cutting,15,39.01,True
+612,104,SVC-000612,Classic Manicure,Manicure,50,34.54,True
+613,104,SVC-000613,Gel Manicure,Manicure,50,48.3,True
+614,104,SVC-000614,Classic Pedicure,Pedicure,65,55.95,True
+615,104,SVC-000615,Acrylic Full Set,Enhancements,60,84.98,True
+616,104,SVC-000616,Acrylic Fill,Enhancements,60,58.32,False
+617,104,SVC-000617,Nail Art,Nail Art,30,27.91,True
+618,105,SVC-000618,Haircut,Cutting,45,59.0,True
+619,105,SVC-000619,Hair Color,Coloring,75,108.02,True
+620,105,SVC-000620,Partial Highlights,Coloring,120,131.41,True
+621,105,SVC-000621,Blowout,Styling,45,58.71,True
+622,105,SVC-000622,Special Occasion Styling,Styling,60,91.82,True
+623,105,SVC-000623,Deep Conditioning,Treatment,30,42.73,True
+624,106,SVC-000624,Classic Manicure,Manicure,50,28.68,True
+625,106,SVC-000625,Gel Manicure,Manicure,65,40.82,True
+626,106,SVC-000626,Deluxe Pedicure,Pedicure,50,58.43,True
+627,106,SVC-000627,Acrylic Full Set,Enhancements,75,67.28,True
+628,106,SVC-000628,Acrylic Fill,Enhancements,75,47.41,True
+629,107,SVC-000629,Classic Manicure,Manicure,35,44.91,True
+630,107,SVC-000630,Gel Manicure,Manicure,65,60.49,False
+631,107,SVC-000631,Classic Pedicure,Pedicure,50,64.35,True
+632,107,SVC-000632,Deluxe Pedicure,Pedicure,50,91.64,True
+633,107,SVC-000633,Acrylic Full Set,Enhancements,75,99.52,True
+634,107,SVC-000634,Acrylic Fill,Enhancements,60,75.69,True
+635,107,SVC-000635,Nail Art,Nail Art,30,35.7,True
+636,108,SVC-000636,Classic Haircut,Cutting,30,41.16,True
+637,108,SVC-000637,Skin Fade,Cutting,45,48.32,True
+638,108,SVC-000638,Beard Trim,Facial Hair,20,26.92,True
+639,108,SVC-000639,Haircut + Beard Trim,Combination,50,64.85,True
+640,108,SVC-000640,Hot Towel Shave,Shaving,35,45.71,True
+641,108,SVC-000641,Kids Haircut,Cutting,25,32.07,True
+642,109,SVC-000642,Classic Manicure,Manicure,35,28.69,True
+643,109,SVC-000643,Gel Manicure,Manicure,50,45.04,True
+644,109,SVC-000644,Classic Pedicure,Pedicure,35,49.15,True
+645,109,SVC-000645,Acrylic Full Set,Enhancements,90,70.85,True
+646,109,SVC-000646,Nail Art,Nail Art,30,25.36,True
+647,110,SVC-000647,Classic Haircut,Cutting,30,38.58,True
+648,110,SVC-000648,Skin Fade,Cutting,45,48.2,True
+649,110,SVC-000649,Beard Trim,Facial Hair,15,26.83,True
+650,110,SVC-000650,Haircut + Beard Trim,Combination,65,61.76,True
+651,110,SVC-000651,Hot Towel Shave,Shaving,35,44.09,True
+652,110,SVC-000652,Kids Haircut,Cutting,15,32.24,False
+653,111,SVC-000653,Haircut,Cutting,45,57.74,True
+654,111,SVC-000654,Hair Color,Coloring,105,103.32,True
+655,111,SVC-000655,Blowout,Styling,30,53.19,True
+656,111,SVC-000656,Special Occasion Styling,Styling,60,83.45,True
+657,111,SVC-000657,Deep Conditioning,Treatment,15,39.55,True
+658,112,SVC-000658,Signature Facial,Skincare,105,117.73,True
+659,112,SVC-000659,Advanced Facial,Skincare,125,191.49,True
+660,112,SVC-000660,Brow Wax,Hair Removal,20,36.58,True
+661,112,SVC-000661,Full Leg Wax,Hair Removal,85,106.52,True
+662,112,SVC-000662,Brow Tint,Brows & Lashes,20,45.44,True
+663,112,SVC-000663,Lash Lift,Brows & Lashes,105,114.60,True
+664,112,SVC-000664,Chemical Peel,Skin Treatment,65,134.89,False
+665,113,SVC-000665,Classic Haircut,Cutting,45,42.65,True
+666,113,SVC-000666,Skin Fade,Cutting,45,54.75,True
+667,113,SVC-000667,Beard Trim,Facial Hair,35,27.49,True
+668,113,SVC-000668,Haircut + Beard Trim,Combination,65,69.29,True
+669,113,SVC-000669,Hot Towel Shave,Shaving,35,50.21,True
+670,113,SVC-000670,Kids Haircut,Cutting,25,34.6,True
+671,114,SVC-000671,Classic Haircut,Cutting,30,37.26,True
+672,114,SVC-000672,Skin Fade,Cutting,45,48.59,True
+673,114,SVC-000673,Beard Trim,Facial Hair,20,23.02,True
+674,114,SVC-000674,Haircut + Beard Trim,Combination,35,55.34,True
+675,114,SVC-000675,Hot Towel Shave,Shaving,35,39.62,True
+676,114,SVC-000676,Kids Haircut,Cutting,25,28.33,True
+677,115,SVC-000677,Haircut,Cutting,45,70.19,True
+678,115,SVC-000678,Hair Color,Coloring,105,119.34,True
+679,115,SVC-000679,Partial Highlights,Coloring,105,148.09,True
+680,115,SVC-000680,Blowout,Styling,45,60.1,True
+681,115,SVC-000681,Special Occasion Styling,Styling,75,96.96,True
+682,115,SVC-000682,Deep Conditioning,Treatment,30,49.05,True
+683,116,SVC-000683,Haircut,Cutting,45,58.31,True
+684,116,SVC-000684,Hair Color,Coloring,90,100.44,True
+685,116,SVC-000685,Partial Highlights,Coloring,105,124.3,True
+686,116,SVC-000686,Full Highlights,Coloring,150,169.37,True
+687,116,SVC-000687,Blowout,Styling,45,48.26,True
+688,116,SVC-000688,Deep Conditioning,Treatment,30,41.31,True
+689,117,SVC-000689,Classic Manicure,Manicure,35,31.87,True
+690,117,SVC-000690,Gel Manicure,Manicure,50,40.28,True
+691,117,SVC-000691,Classic Pedicure,Pedicure,50,44.93,True
+692,117,SVC-000692,Deluxe Pedicure,Pedicure,65,61.08,True
+693,117,SVC-000693,Acrylic Full Set,Enhancements,90,71.7,True
+694,117,SVC-000694,Acrylic Fill,Enhancements,75,51.11,True
+695,117,SVC-000695,Nail Art,Nail Art,30,24.65,True
+696,118,SVC-000696,Haircut,Cutting,45,67.67,True
+697,118,SVC-000697,Hair Color,Coloring,75,132.0,True
+698,118,SVC-000698,Partial Highlights,Coloring,90,153.27,True
+699,118,SVC-000699,Blowout,Styling,45,61.72,True
+700,118,SVC-000700,Special Occasion Styling,Styling,60,101.54,True
+701,119,SVC-000701,Haircut,Cutting,60,78.01,True
+702,119,SVC-000702,Hair Color,Coloring,105,134.73,True
+703,119,SVC-000703,Partial Highlights,Coloring,105,161.28,True
+704,119,SVC-000704,Full Highlights,Coloring,150,240.67,True
+705,119,SVC-000705,Blowout,Styling,60,65.89,True
+706,119,SVC-000706,Special Occasion Styling,Styling,45,104.55,True
+707,119,SVC-000707,Deep Conditioning,Treatment,15,53.79,True
+708,120,SVC-000708,Haircut,Cutting,45,56.63,True
+709,120,SVC-000709,Hair Color,Coloring,90,97.37,True
+710,120,SVC-000710,Partial Highlights,Coloring,105,120.42,True
+711,120,SVC-000711,Full Highlights,Coloring,135,169.52,True
+712,120,SVC-000712,Blowout,Styling,30,50.82,True
+713,120,SVC-000713,Special Occasion Styling,Styling,60,84.65,True
+714,121,SVC-000714,Signature Facial,Skincare,85,134.62,True
+715,121,SVC-000715,Advanced Facial,Skincare,125,219.43,True
+716,121,SVC-000716,Brow Wax,Hair Removal,30,41.01,True
+717,121,SVC-000717,Brow Tint,Brows & Lashes,20,52.47,True
+718,121,SVC-000718,Lash Lift,Brows & Lashes,85,130.70,True
+719,122,SVC-000719,Classic Haircut,Cutting,15,51.91,True
+720,122,SVC-000720,Skin Fade,Cutting,45,69.09,True
+721,122,SVC-000721,Beard Trim,Facial Hair,35,35.39,True
+722,122,SVC-000722,Haircut + Beard Trim,Combination,50,80.36,True
+723,122,SVC-000723,Hot Towel Shave,Shaving,20,59.55,True
+724,122,SVC-000724,Kids Haircut,Cutting,15,42.26,True
+725,123,SVC-000725,Classic Haircut,Cutting,30,31.79,True
+726,123,SVC-000726,Skin Fade,Cutting,45,37.85,True
+727,123,SVC-000727,Beard Trim,Facial Hair,15,21.66,True
+728,123,SVC-000728,Haircut + Beard Trim,Combination,35,46.47,True
+729,123,SVC-000729,Hot Towel Shave,Shaving,35,32.58,True
+730,123,SVC-000730,Kids Haircut,Cutting,25,25.88,True
+731,124,SVC-000731,Classic Haircut,Cutting,30,31.87,True
+732,124,SVC-000732,Skin Fade,Cutting,45,42.45,True
+733,124,SVC-000733,Beard Trim,Facial Hair,20,20.28,True
+734,124,SVC-000734,Haircut + Beard Trim,Combination,65,51.34,True
+735,124,SVC-000735,Hot Towel Shave,Shaving,20,37.38,True
+736,124,SVC-000736,Kids Haircut,Cutting,40,26.55,True
+737,125,SVC-000737,Haircut,Cutting,60,68.95,True
+738,125,SVC-000738,Hair Color,Coloring,105,126.8,True
+739,125,SVC-000739,Partial Highlights,Coloring,120,159.79,False
+740,125,SVC-000740,Blowout,Styling,30,63.2,True
+741,125,SVC-000741,Special Occasion Styling,Styling,60,107.27,True
+742,125,SVC-000742,Deep Conditioning,Treatment,30,55.35,True
+743,126,SVC-000743,Signature Facial,Skincare,105,114.29,True
+744,126,SVC-000744,Advanced Facial,Skincare,125,182.23,True
+745,126,SVC-000745,Brow Wax,Hair Removal,30,33.51,True
+746,126,SVC-000746,Full Leg Wax,Hair Removal,65,102.63,True
+747,126,SVC-000747,Brow Tint,Brows & Lashes,20,45.44,True
+748,126,SVC-000748,Lash Lift,Brows & Lashes,85,104.31,True
+749,126,SVC-000749,Chemical Peel,Skin Treatment,65,133.12,True
+750,127,SVC-000750,Haircut,Cutting,45,71.48,True
+751,127,SVC-000751,Hair Color,Coloring,75,126.42,True
+752,127,SVC-000752,Blowout,Styling,60,67.01,True
+753,127,SVC-000753,Special Occasion Styling,Styling,45,103.53,True
+754,127,SVC-000754,Deep Conditioning,Treatment,30,51.25,True
+755,128,SVC-000755,Classic Haircut,Cutting,30,46.95,True
+756,128,SVC-000756,Skin Fade,Cutting,60,62.76,False
+757,128,SVC-000757,Beard Trim,Facial Hair,15,31.81,True
+758,128,SVC-000758,Haircut + Beard Trim,Combination,35,75.72,True
+759,128,SVC-000759,Hot Towel Shave,Shaving,35,50.07,True
+760,128,SVC-000760,Kids Haircut,Cutting,25,36.65,True
+761,129,SVC-000761,Haircut,Cutting,45,60.94,True
+762,129,SVC-000762,Hair Color,Coloring,75,107.37,True
+763,129,SVC-000763,Partial Highlights,Coloring,105,134.04,True
+764,129,SVC-000764,Blowout,Styling,45,50.24,True
+765,129,SVC-000765,Special Occasion Styling,Styling,60,82.75,True
+766,129,SVC-000766,Deep Conditioning,Treatment,30,43.18,True
+767,130,SVC-000767,Classic Haircut,Cutting,30,47.23,True
+768,130,SVC-000768,Skin Fade,Cutting,60,57.7,True
+769,130,SVC-000769,Beard Trim,Facial Hair,35,32.19,True
+770,130,SVC-000770,Haircut + Beard Trim,Combination,50,73.04,True
+771,130,SVC-000771,Hot Towel Shave,Shaving,20,52.16,True
+772,130,SVC-000772,Kids Haircut,Cutting,25,38.32,True
+773,131,SVC-000773,Haircut,Cutting,30,68.1,True
+774,131,SVC-000774,Hair Color,Coloring,90,126.01,True
+775,131,SVC-000775,Full Highlights,Coloring,150,194.7,True
+776,131,SVC-000776,Blowout,Styling,60,58.49,True
+777,131,SVC-000777,Special Occasion Styling,Styling,60,94.27,True
+778,131,SVC-000778,Deep Conditioning,Treatment,30,47.66,True
+779,132,SVC-000779,Haircut,Cutting,45,60.73,True
+780,132,SVC-000780,Hair Color,Coloring,90,112.11,True
+781,132,SVC-000781,Partial Highlights,Coloring,105,134.64,True
+782,132,SVC-000782,Full Highlights,Coloring,165,199.26,True
+783,132,SVC-000783,Blowout,Styling,45,59.31,True
+784,132,SVC-000784,Special Occasion Styling,Styling,45,92.83,True
+785,132,SVC-000785,Deep Conditioning,Treatment,15,44.4,True
+786,133,SVC-000786,Classic Haircut,Cutting,30,41.03,True
+787,133,SVC-000787,Skin Fade,Cutting,45,46.99,True
+788,133,SVC-000788,Beard Trim,Facial Hair,20,26.22,True
+789,133,SVC-000789,Haircut + Beard Trim,Combination,35,61.82,True
+790,133,SVC-000790,Hot Towel Shave,Shaving,35,43.78,True
+791,133,SVC-000791,Kids Haircut,Cutting,25,30.96,False
+792,134,SVC-000792,Classic Haircut,Cutting,45,46.27,True
+793,134,SVC-000793,Skin Fade,Cutting,45,56.67,True
+794,134,SVC-000794,Beard Trim,Facial Hair,15,28.91,True
+795,134,SVC-000795,Haircut + Beard Trim,Combination,65,64.4,True
+796,134,SVC-000796,Hot Towel Shave,Shaving,35,49.5,True
+797,134,SVC-000797,Kids Haircut,Cutting,40,35.1,True
+798,135,SVC-000798,Classic Haircut,Cutting,45,40.2,True
+799,135,SVC-000799,Skin Fade,Cutting,60,53.94,True
+800,135,SVC-000800,Beard Trim,Facial Hair,35,28.14,True
+801,135,SVC-000801,Haircut + Beard Trim,Combination,35,62.13,True
+802,135,SVC-000802,Hot Towel Shave,Shaving,50,44.75,True
+803,135,SVC-000803,Kids Haircut,Cutting,25,34.19,True
+804,136,SVC-000804,Classic Haircut,Cutting,15,54.08,True
+805,136,SVC-000805,Skin Fade,Cutting,60,73.41,True
+806,136,SVC-000806,Beard Trim,Facial Hair,20,35.72,True
+807,136,SVC-000807,Haircut + Beard Trim,Combination,50,83.36,True
+808,136,SVC-000808,Hot Towel Shave,Shaving,20,61.98,True
+809,136,SVC-000809,Kids Haircut,Cutting,25,45.52,True
+810,137,SVC-000810,Haircut,Cutting,45,69.33,True
+811,137,SVC-000811,Hair Color,Coloring,105,121.08,True
+812,137,SVC-000812,Partial Highlights,Coloring,105,138.51,True
+813,137,SVC-000813,Full Highlights,Coloring,150,189.12,True
+814,137,SVC-000814,Blowout,Styling,45,57.35,True
+815,137,SVC-000815,Deep Conditioning,Treatment,30,46.63,True
+816,138,SVC-000816,Haircut,Cutting,30,69.84,True
+817,138,SVC-000817,Hair Color,Coloring,90,127.75,True
+818,138,SVC-000818,Partial Highlights,Coloring,105,155.78,True
+819,138,SVC-000819,Full Highlights,Coloring,150,204.3,True
+820,138,SVC-000820,Blowout,Styling,60,66.06,True
+821,138,SVC-000821,Special Occasion Styling,Styling,60,105.55,True
+822,139,SVC-000822,Haircut,Cutting,45,55.86,True
+823,139,SVC-000823,Hair Color,Coloring,90,111.02,True
+824,139,SVC-000824,Blowout,Styling,60,50.32,True
+825,139,SVC-000825,Special Occasion Styling,Styling,60,82.94,True
+826,139,SVC-000826,Deep Conditioning,Treatment,45,41.78,True
+827,140,SVC-000827,Classic Manicure,Manicure,35,42.99,True
+828,140,SVC-000828,Gel Manicure,Manicure,50,57.89,True
+829,140,SVC-000829,Classic Pedicure,Pedicure,50,65.0,True
+830,140,SVC-000830,Acrylic Full Set,Enhancements,90,104.38,True
+831,140,SVC-000831,Acrylic Fill,Enhancements,45,76.92,True
+832,140,SVC-000832,Nail Art,Nail Art,30,36.63,True
+833,141,SVC-000833,Classic Haircut,Cutting,30,43.65,True
+834,141,SVC-000834,Skin Fade,Cutting,45,55.73,True
+835,141,SVC-000835,Beard Trim,Facial Hair,20,28.99,True
+836,141,SVC-000836,Haircut + Beard Trim,Combination,35,65.56,True
+837,141,SVC-000837,Hot Towel Shave,Shaving,20,50.24,True
+838,141,SVC-000838,Kids Haircut,Cutting,15,36.44,True
+839,142,SVC-000839,Classic Haircut,Cutting,30,34.31,True
+840,142,SVC-000840,Skin Fade,Cutting,45,42.66,True
+841,142,SVC-000841,Beard Trim,Facial Hair,20,23.36,True
+842,142,SVC-000842,Haircut + Beard Trim,Combination,65,51.47,True
+843,142,SVC-000843,Hot Towel Shave,Shaving,50,40.73,True
+844,142,SVC-000844,Kids Haircut,Cutting,25,28.44,True
+845,143,SVC-000845,Haircut,Cutting,60,55.51,True
+846,143,SVC-000846,Hair Color,Coloring,90,106.7,True
+847,143,SVC-000847,Partial Highlights,Coloring,90,125.69,True
+848,143,SVC-000848,Full Highlights,Coloring,150,178.9,True
+849,143,SVC-000849,Blowout,Styling,45,52.42,True
+850,143,SVC-000850,Special Occasion Styling,Styling,45,81.95,True
+851,144,SVC-000851,Signature Facial,Skincare,85,157.66,True
+852,144,SVC-000852,Advanced Facial,Skincare,105,253.34,True
+853,144,SVC-000853,Brow Wax,Hair Removal,30,50.20,True
+854,144,SVC-000854,Full Leg Wax,Hair Removal,85,139.39,True
+855,144,SVC-000855,Brow Tint,Brows & Lashes,20,66.87,True
+856,144,SVC-000856,Lash Lift,Brows & Lashes,85,145.15,True
+857,144,SVC-000857,Chemical Peel,Skin Treatment,65,205.61,True
+858,145,SVC-000858,Classic Manicure,Manicure,35,34.69,True
+859,145,SVC-000859,Gel Manicure,Manicure,50,46.98,True
+860,145,SVC-000860,Classic Pedicure,Pedicure,50,52.97,True
+861,145,SVC-000861,Deluxe Pedicure,Pedicure,50,68.46,True
+862,145,SVC-000862,Acrylic Full Set,Enhancements,75,77.34,True
+863,145,SVC-000863,Acrylic Fill,Enhancements,60,56.11,True
+864,146,SVC-000864,Haircut,Cutting,45,67.77,True
+865,146,SVC-000865,Hair Color,Coloring,90,117.05,True
+866,146,SVC-000866,Partial Highlights,Coloring,105,150.13,True
+867,146,SVC-000867,Full Highlights,Coloring,150,198.32,True
+868,146,SVC-000868,Blowout,Styling,45,60.55,True
+869,147,SVC-000869,Haircut,Cutting,45,56.98,True
+870,147,SVC-000870,Hair Color,Coloring,90,101.7,True
+871,147,SVC-000871,Partial Highlights,Coloring,105,120.59,True
+872,147,SVC-000872,Full Highlights,Coloring,150,185.65,True
+873,147,SVC-000873,Blowout,Styling,60,52.54,True
+874,147,SVC-000874,Special Occasion Styling,Styling,75,77.73,True
+875,147,SVC-000875,Deep Conditioning,Treatment,30,42.63,True
+876,148,SVC-000876,Classic Manicure,Manicure,35,38.53,True
+877,148,SVC-000877,Gel Manicure,Manicure,50,56.16,True
+878,148,SVC-000878,Deluxe Pedicure,Pedicure,50,79.94,True
+879,148,SVC-000879,Acrylic Full Set,Enhancements,60,96.95,True
+880,148,SVC-000880,Acrylic Fill,Enhancements,75,69.62,True
+881,148,SVC-000881,Nail Art,Nail Art,30,33.45,True
+882,149,SVC-000882,Signature Facial,Skincare,85,124.16,True
+883,149,SVC-000883,Brow Wax,Hair Removal,30,39.85,True
+884,149,SVC-000884,Full Leg Wax,Hair Removal,105,104.84,True
+885,149,SVC-000885,Brow Tint,Brows & Lashes,40,51.55,True
+886,149,SVC-000886,Lash Lift,Brows & Lashes,85,113.09,True
+887,150,SVC-000887,Haircut,Cutting,60,51.74,True
+888,150,SVC-000888,Hair Color,Coloring,90,87.97,True
+889,150,SVC-000889,Partial Highlights,Coloring,90,107.74,True
+890,150,SVC-000890,Full Highlights,Coloring,135,149.21,True
+891,150,SVC-000891,Blowout,Styling,45,46.56,True
+892,150,SVC-000892,Special Occasion Styling,Styling,75,72.5,True
+893,150,SVC-000893,Deep Conditioning,Treatment,45,38.25,True
+894,151,SVC-000894,Classic Haircut,Cutting,45,47.97,True
+895,151,SVC-000895,Skin Fade,Cutting,45,59.17,True
+896,151,SVC-000896,Beard Trim,Facial Hair,20,31.37,True
+897,151,SVC-000897,Haircut + Beard Trim,Combination,35,71.1,True
+898,151,SVC-000898,Hot Towel Shave,Shaving,20,51.33,True
+899,151,SVC-000899,Kids Haircut,Cutting,25,38.43,True
+900,152,SVC-000900,Classic Haircut,Cutting,30,38.99,False
+901,152,SVC-000901,Skin Fade,Cutting,45,46.98,True
+902,152,SVC-000902,Beard Trim,Facial Hair,15,27.03,True
+903,152,SVC-000903,Haircut + Beard Trim,Combination,50,60.08,True
+904,152,SVC-000904,Hot Towel Shave,Shaving,35,44.86,True
+905,152,SVC-000905,Kids Haircut,Cutting,25,30.36,True
+906,153,SVC-000906,Classic Manicure,Manicure,35,47.74,True
+907,153,SVC-000907,Gel Manicure,Manicure,50,63.27,True
+908,153,SVC-000908,Classic Pedicure,Pedicure,50,69.97,True
+909,153,SVC-000909,Acrylic Full Set,Enhancements,90,109.64,True
+910,153,SVC-000910,Acrylic Fill,Enhancements,45,78.63,True
+911,153,SVC-000911,Nail Art,Nail Art,30,37.51,True
+912,154,SVC-000912,Signature Facial,Skincare,85,120.92,True
+913,154,SVC-000913,Advanced Facial,Skincare,145,187.97,True
+914,154,SVC-000914,Brow Tint,Brows & Lashes,40,46.77,True
+915,154,SVC-000915,Lash Lift,Brows & Lashes,85,114.39,True
+916,154,SVC-000916,Chemical Peel,Skin Treatment,65,134.22,True
+917,155,SVC-000917,Haircut,Cutting,60,58.1,True
+918,155,SVC-000918,Hair Color,Coloring,75,101.77,True
+919,155,SVC-000919,Partial Highlights,Coloring,105,125.83,True
+920,155,SVC-000920,Full Highlights,Coloring,135,183.9,True
+921,155,SVC-000921,Blowout,Styling,45,51.17,True
+922,155,SVC-000922,Special Occasion Styling,Styling,60,84.13,True
+923,155,SVC-000923,Deep Conditioning,Treatment,45,41.38,True
+924,156,SVC-000924,Signature Facial,Skincare,85,135.41,True
+925,156,SVC-000925,Brow Wax,Hair Removal,30,39.91,True
+926,156,SVC-000926,Full Leg Wax,Hair Removal,85,111.48,False
+927,156,SVC-000927,Brow Tint,Brows & Lashes,40,48.91,True
+928,156,SVC-000928,Lash Lift,Brows & Lashes,65,123.52,True
+929,156,SVC-000929,Chemical Peel,Skin Treatment,40,151.53,True
+930,157,SVC-000930,Haircut,Cutting,45,55.22,True
+931,157,SVC-000931,Hair Color,Coloring,75,96.08,True
+932,157,SVC-000932,Partial Highlights,Coloring,90,119.89,True
+933,157,SVC-000933,Full Highlights,Coloring,150,172.37,True
+934,157,SVC-000934,Blowout,Styling,60,53.18,True
+935,157,SVC-000935,Special Occasion Styling,Styling,60,78.21,True
+936,158,SVC-000936,Signature Facial,Skincare,105,128.90,True
+937,158,SVC-000937,Advanced Facial,Skincare,125,188.28,True
+938,158,SVC-000938,Brow Wax,Hair Removal,30,37.09,True
+939,158,SVC-000939,Full Leg Wax,Hair Removal,85,109.09,True
+940,158,SVC-000940,Brow Tint,Brows & Lashes,20,50.37,True
+941,158,SVC-000941,Lash Lift,Brows & Lashes,85,119.94,True
+942,158,SVC-000942,Chemical Peel,Skin Treatment,85,152.77,True
+943,159,SVC-000943,Signature Facial,Skincare,85,141.64,True
+944,159,SVC-000944,Advanced Facial,Skincare,125,203.87,True
+945,159,SVC-000945,Brow Wax,Hair Removal,50,40.03,False
+946,159,SVC-000946,Full Leg Wax,Hair Removal,105,116.01,True
+947,159,SVC-000947,Brow Tint,Brows & Lashes,40,50.68,True
+948,159,SVC-000948,Lash Lift,Brows & Lashes,85,127.41,True
+949,160,SVC-000949,Haircut,Cutting,45,72.97,True
+950,160,SVC-000950,Hair Color,Coloring,75,121.89,True
+951,160,SVC-000951,Partial Highlights,Coloring,105,160.35,True
+952,160,SVC-000952,Full Highlights,Coloring,150,214.72,True
+953,160,SVC-000953,Blowout,Styling,45,61.81,True
+954,160,SVC-000954,Special Occasion Styling,Styling,60,103.23,True
+955,161,SVC-000955,Haircut,Cutting,45,61.52,True
+956,161,SVC-000956,Hair Color,Coloring,90,108.37,True
+957,161,SVC-000957,Partial Highlights,Coloring,105,132.81,True
+958,161,SVC-000958,Full Highlights,Coloring,150,179.1,True
+959,161,SVC-000959,Blowout,Styling,30,55.57,True
+960,161,SVC-000960,Special Occasion Styling,Styling,75,86.34,True
+961,161,SVC-000961,Deep Conditioning,Treatment,15,46.27,True
+962,162,SVC-000962,Classic Manicure,Manicure,35,26.67,True
+963,162,SVC-000963,Gel Manicure,Manicure,65,36.75,True
+964,162,SVC-000964,Classic Pedicure,Pedicure,50,43.42,True
+965,162,SVC-000965,Deluxe Pedicure,Pedicure,65,57.56,True
+966,162,SVC-000966,Acrylic Full Set,Enhancements,90,67.81,True
+967,162,SVC-000967,Acrylic Fill,Enhancements,60,45.07,True
+968,162,SVC-000968,Nail Art,Nail Art,30,22.03,True
+969,163,SVC-000969,Haircut,Cutting,60,79.05,True
+970,163,SVC-000970,Hair Color,Coloring,90,147.24,True
+971,163,SVC-000971,Partial Highlights,Coloring,90,168.71,True
+972,163,SVC-000972,Blowout,Styling,45,68.98,True
+973,163,SVC-000973,Special Occasion Styling,Styling,45,116.56,True
+974,164,SVC-000974,Classic Haircut,Cutting,30,47.2,True
+975,164,SVC-000975,Skin Fade,Cutting,45,54.91,True
+976,164,SVC-000976,Beard Trim,Facial Hair,35,30.06,True
+977,164,SVC-000977,Haircut + Beard Trim,Combination,50,70.91,True
+978,164,SVC-000978,Hot Towel Shave,Shaving,35,47.37,True
+979,164,SVC-000979,Kids Haircut,Cutting,25,36.18,True
+980,165,SVC-000980,Haircut,Cutting,30,69.09,True
+981,165,SVC-000981,Hair Color,Coloring,90,121.65,True
+982,165,SVC-000982,Partial Highlights,Coloring,90,158.79,True
+983,165,SVC-000983,Full Highlights,Coloring,165,206.13,True
+984,165,SVC-000984,Special Occasion Styling,Styling,60,99.56,True
+985,165,SVC-000985,Deep Conditioning,Treatment,45,50.51,True
+986,166,SVC-000986,Haircut,Cutting,30,57.21,True
+987,166,SVC-000987,Hair Color,Coloring,90,109.58,True
+988,166,SVC-000988,Partial Highlights,Coloring,105,128.92,True
+989,166,SVC-000989,Blowout,Styling,45,51.53,True
+990,166,SVC-000990,Special Occasion Styling,Styling,45,83.34,True
+991,166,SVC-000991,Deep Conditioning,Treatment,30,42.07,False
+992,167,SVC-000992,Haircut,Cutting,30,71.74,True
+993,167,SVC-000993,Hair Color,Coloring,75,131.61,True
+994,167,SVC-000994,Partial Highlights,Coloring,105,160.47,True
+995,167,SVC-000995,Full Highlights,Coloring,165,214.76,True
+996,167,SVC-000996,Blowout,Styling,45,62.3,True
+997,167,SVC-000997,Special Occasion Styling,Styling,60,94.39,True
+998,167,SVC-000998,Deep Conditioning,Treatment,45,50.92,True
+999,168,SVC-000999,Classic Manicure,Manicure,35,34.53,True
+1000,168,SVC-001000,Gel Manicure,Manicure,35,53.32,True
+1001,168,SVC-001001,Classic Pedicure,Pedicure,50,51.97,True
+1002,168,SVC-001002,Acrylic Full Set,Enhancements,90,88.8,True
+1003,168,SVC-001003,Acrylic Fill,Enhancements,60,61.91,True
+1004,168,SVC-001004,Nail Art,Nail Art,15,31.43,True
+1005,169,SVC-001005,Classic Manicure,Manicure,35,36.0,True
+1006,169,SVC-001006,Gel Manicure,Manicure,50,52.89,True
+1007,169,SVC-001007,Classic Pedicure,Pedicure,50,55.96,True
+1008,169,SVC-001008,Deluxe Pedicure,Pedicure,65,78.84,True
+1009,169,SVC-001009,Acrylic Full Set,Enhancements,60,91.7,False
+1010,169,SVC-001010,Acrylic Fill,Enhancements,45,62.74,False
+1011,169,SVC-001011,Nail Art,Nail Art,30,30.48,True
+1012,170,SVC-001012,Classic Manicure,Manicure,20,37.2,False
+1013,170,SVC-001013,Gel Manicure,Manicure,35,58.22,True
+1014,170,SVC-001014,Classic Pedicure,Pedicure,65,59.17,True
+1015,170,SVC-001015,Deluxe Pedicure,Pedicure,80,83.79,True
+1016,170,SVC-001016,Acrylic Full Set,Enhancements,90,93.2,True
+1017,170,SVC-001017,Nail Art,Nail Art,30,31.68,True
+1018,171,SVC-001018,Haircut,Cutting,45,61.41,True
+1019,171,SVC-001019,Hair Color,Coloring,90,122.0,True
+1020,171,SVC-001020,Partial Highlights,Coloring,105,145.87,True
+1021,171,SVC-001021,Full Highlights,Coloring,135,187.87,True
+1022,171,SVC-001022,Blowout,Styling,45,57.13,False
+1023,171,SVC-001023,Special Occasion Styling,Styling,75,94.02,True
+1024,171,SVC-001024,Deep Conditioning,Treatment,30,49.27,True
+1025,172,SVC-001025,Classic Manicure,Manicure,35,35.87,True
+1026,172,SVC-001026,Gel Manicure,Manicure,50,48.26,True
+1027,172,SVC-001027,Acrylic Full Set,Enhancements,90,86.54,True
+1028,172,SVC-001028,Acrylic Fill,Enhancements,60,55.01,True
+1029,172,SVC-001029,Nail Art,Nail Art,45,27.1,True
+1030,173,SVC-001030,Classic Manicure,Manicure,35,46.38,True
+1031,173,SVC-001031,Classic Pedicure,Pedicure,35,70.79,True
+1032,173,SVC-001032,Deluxe Pedicure,Pedicure,80,93.97,True
+1033,173,SVC-001033,Acrylic Full Set,Enhancements,75,112.13,True
+1034,173,SVC-001034,Acrylic Fill,Enhancements,60,80.27,True
+1035,173,SVC-001035,Nail Art,Nail Art,30,39.26,True
+1036,174,SVC-001036,Haircut,Cutting,60,55.78,True
+1037,174,SVC-001037,Hair Color,Coloring,105,103.06,True
+1038,174,SVC-001038,Partial Highlights,Coloring,105,121.82,True
+1039,174,SVC-001039,Full Highlights,Coloring,150,180.24,True
+1040,174,SVC-001040,Blowout,Styling,45,49.34,True
+1041,174,SVC-001041,Special Occasion Styling,Styling,60,80.84,True
+1042,174,SVC-001042,Deep Conditioning,Treatment,15,43.29,True
+1043,175,SVC-001043,Haircut,Cutting,45,56.9,True
+1044,175,SVC-001044,Hair Color,Coloring,75,104.53,True
+1045,175,SVC-001045,Partial Highlights,Coloring,90,129.0,True
+1046,175,SVC-001046,Full Highlights,Coloring,150,165.45,True
+1047,175,SVC-001047,Blowout,Styling,60,54.61,True
+1048,175,SVC-001048,Special Occasion Styling,Styling,45,81.14,True
+1049,176,SVC-001049,Classic Manicure,Manicure,50,39.23,True
+1050,176,SVC-001050,Gel Manicure,Manicure,35,51.2,True
+1051,176,SVC-001051,Classic Pedicure,Pedicure,50,60.04,True
+1052,176,SVC-001052,Deluxe Pedicure,Pedicure,50,83.4,True
+1053,176,SVC-001053,Acrylic Full Set,Enhancements,90,87.87,True
+1054,176,SVC-001054,Acrylic Fill,Enhancements,75,61.15,True
+1055,176,SVC-001055,Nail Art,Nail Art,45,32.9,True
+1056,177,SVC-001056,Classic Manicure,Manicure,35,44.91,True
+1057,177,SVC-001057,Gel Manicure,Manicure,50,62.6,True
+1058,177,SVC-001058,Classic Pedicure,Pedicure,50,66.18,True
+1059,177,SVC-001059,Acrylic Full Set,Enhancements,75,110.93,True
+1060,177,SVC-001060,Acrylic Fill,Enhancements,60,74.37,True
+1061,177,SVC-001061,Nail Art,Nail Art,15,35.47,True
+1062,178,SVC-001062,Hair Color,Coloring,90,137.23,True
+1063,178,SVC-001063,Partial Highlights,Coloring,90,171.36,True
+1064,178,SVC-001064,Full Highlights,Coloring,150,233.26,True
+1065,178,SVC-001065,Blowout,Styling,45,68.66,True
+1066,178,SVC-001066,Deep Conditioning,Treatment,15,55.39,True
+1067,179,SVC-001067,Classic Haircut,Cutting,15,38.04,True
+1068,179,SVC-001068,Skin Fade,Cutting,30,48.73,True
+1069,179,SVC-001069,Beard Trim,Facial Hair,20,27.58,True
+1070,179,SVC-001070,Haircut + Beard Trim,Combination,65,58.43,True
+1071,179,SVC-001071,Hot Towel Shave,Shaving,20,42.98,True
+1072,179,SVC-001072,Kids Haircut,Cutting,40,31.58,True
+1073,180,SVC-001073,Signature Facial,Skincare,65,166.68,True
+1074,180,SVC-001074,Advanced Facial,Skincare,125,236.71,True
+1075,180,SVC-001075,Brow Wax,Hair Removal,50,50.05,True
+1076,180,SVC-001076,Full Leg Wax,Hair Removal,85,135.73,True
+1077,180,SVC-001077,Brow Tint,Brows & Lashes,65,63.65,True
+1078,180,SVC-001078,Lash Lift,Brows & Lashes,105,145.25,True
+1079,181,SVC-001079,Haircut,Cutting,45,52.28,True
+1080,181,SVC-001080,Hair Color,Coloring,105,99.43,True
+1081,181,SVC-001081,Partial Highlights,Coloring,90,116.05,True
+1082,181,SVC-001082,Full Highlights,Coloring,150,166.94,True
+1083,181,SVC-001083,Blowout,Styling,45,51.45,True
+1084,181,SVC-001084,Deep Conditioning,Treatment,30,37.8,False
+1085,182,SVC-001085,Signature Facial,Skincare,85,134.52,True
+1086,182,SVC-001086,Brow Wax,Hair Removal,20,37.44,True
+1087,182,SVC-001087,Full Leg Wax,Hair Removal,85,104.42,True
+1088,182,SVC-001088,Lash Lift,Brows & Lashes,85,114.93,True
+1089,182,SVC-001089,Chemical Peel,Skin Treatment,65,159.00,True
+1090,183,SVC-001090,Classic Haircut,Cutting,30,43.36,True
+1091,183,SVC-001091,Skin Fade,Cutting,60,51.71,True
+1092,183,SVC-001092,Beard Trim,Facial Hair,15,26.58,True
+1093,183,SVC-001093,Haircut + Beard Trim,Combination,50,61.84,True
+1094,183,SVC-001094,Hot Towel Shave,Shaving,20,47.12,True
+1095,183,SVC-001095,Kids Haircut,Cutting,15,32.47,True
+1096,184,SVC-001096,Classic Haircut,Cutting,45,54.69,True
+1097,184,SVC-001097,Skin Fade,Cutting,30,62.91,True
+1098,184,SVC-001098,Beard Trim,Facial Hair,15,35.01,True
+1099,184,SVC-001099,Haircut + Beard Trim,Combination,50,75.08,True
+1100,184,SVC-001100,Hot Towel Shave,Shaving,50,60.44,True
+1101,184,SVC-001101,Kids Haircut,Cutting,15,40.01,True
+1102,185,SVC-001102,Haircut,Cutting,60,68.78,True
+1103,185,SVC-001103,Hair Color,Coloring,90,127.59,True
+1104,185,SVC-001104,Partial Highlights,Coloring,105,159.19,True
+1105,185,SVC-001105,Full Highlights,Coloring,165,230.14,True
+1106,185,SVC-001106,Blowout,Styling,45,61.77,True
+1107,185,SVC-001107,Special Occasion Styling,Styling,75,103.86,True
+1108,185,SVC-001108,Deep Conditioning,Treatment,30,52.91,True
+1109,186,SVC-001109,Classic Haircut,Cutting,15,41.81,True
+1110,186,SVC-001110,Skin Fade,Cutting,45,56.81,True
+1111,186,SVC-001111,Beard Trim,Facial Hair,20,28.79,True
+1112,186,SVC-001112,Haircut + Beard Trim,Combination,35,66.47,True
+1113,186,SVC-001113,Hot Towel Shave,Shaving,35,45.1,True
+1114,186,SVC-001114,Kids Haircut,Cutting,25,35.5,True
+1115,187,SVC-001115,Haircut,Cutting,45,61.04,True
+1116,187,SVC-001116,Hair Color,Coloring,90,114.52,True
+1117,187,SVC-001117,Partial Highlights,Coloring,105,137.03,True
+1118,187,SVC-001118,Full Highlights,Coloring,165,194.2,True
+1119,187,SVC-001119,Blowout,Styling,30,54.23,True
+1120,187,SVC-001120,Special Occasion Styling,Styling,60,86.43,False
+1121,188,SVC-001121,Haircut,Cutting,45,62.75,True
+1122,188,SVC-001122,Hair Color,Coloring,105,118.26,True
+1123,188,SVC-001123,Full Highlights,Coloring,150,182.19,True
+1124,188,SVC-001124,Blowout,Styling,45,57.06,True
+1125,188,SVC-001125,Special Occasion Styling,Styling,60,90.85,True
+1126,189,SVC-001126,Signature Facial,Skincare,85,140.92,True
+1127,189,SVC-001127,Advanced Facial,Skincare,125,200.82,True
+1128,189,SVC-001128,Brow Wax,Hair Removal,20,40.59,True
+1129,189,SVC-001129,Full Leg Wax,Hair Removal,65,122.64,True
+1130,189,SVC-001130,Brow Tint,Brows & Lashes,40,54.75,True
+1131,189,SVC-001131,Lash Lift,Brows & Lashes,85,121.89,True
+1132,189,SVC-001132,Chemical Peel,Skin Treatment,40,163.61,True
+1133,190,SVC-001133,Haircut,Cutting,30,54.7,True
+1134,190,SVC-001134,Partial Highlights,Coloring,90,118.96,True
+1135,190,SVC-001135,Full Highlights,Coloring,150,154.32,True
+1136,190,SVC-001136,Blowout,Styling,45,49.79,True
+1137,190,SVC-001137,Special Occasion Styling,Styling,60,77.36,True
+1138,191,SVC-001138,Haircut,Cutting,45,73.93,True
+1139,191,SVC-001139,Hair Color,Coloring,90,130.73,True
+1140,191,SVC-001140,Partial Highlights,Coloring,120,152.16,True
+1141,191,SVC-001141,Full Highlights,Coloring,165,215.12,True
+1142,191,SVC-001142,Special Occasion Styling,Styling,60,104.29,True
+1143,192,SVC-001143,Signature Facial,Skincare,85,115.71,True
+1144,192,SVC-001144,Advanced Facial,Skincare,125,170.20,True
+1145,192,SVC-001145,Brow Wax,Hair Removal,30,31.95,True
+1146,192,SVC-001146,Full Leg Wax,Hair Removal,65,95.91,True
+1147,192,SVC-001147,Brow Tint,Brows & Lashes,40,45.27,True
+1148,192,SVC-001148,Lash Lift,Brows & Lashes,105,106.59,True
+1149,193,SVC-001149,Signature Facial,Skincare,65,126.72,True
+1150,193,SVC-001150,Advanced Facial,Skincare,145,173.40,True
+1151,193,SVC-001151,Brow Wax,Hair Removal,30,36.62,True
+1152,193,SVC-001152,Full Leg Wax,Hair Removal,85,107.00,True
+1153,193,SVC-001153,Brow Tint,Brows & Lashes,40,47.77,True
+1154,193,SVC-001154,Lash Lift,Brows & Lashes,85,111.44,True
+1155,194,SVC-001155,Classic Haircut,Cutting,30,40.25,True
+1156,194,SVC-001156,Skin Fade,Cutting,30,51.63,True
+1157,194,SVC-001157,Beard Trim,Facial Hair,20,26.95,True
+1158,194,SVC-001158,Haircut + Beard Trim,Combination,35,63.56,True
+1159,194,SVC-001159,Hot Towel Shave,Shaving,35,47.78,True
+1160,194,SVC-001160,Kids Haircut,Cutting,40,35.1,True
+1161,195,SVC-001161,Haircut,Cutting,45,50.39,True
+1162,195,SVC-001162,Hair Color,Coloring,105,85.36,True
+1163,195,SVC-001163,Partial Highlights,Coloring,105,102.3,True
+1164,195,SVC-001164,Full Highlights,Coloring,135,147.83,True
+1165,195,SVC-001165,Blowout,Styling,45,42.44,True
+1166,195,SVC-001166,Special Occasion Styling,Styling,60,70.98,True
+1167,195,SVC-001167,Deep Conditioning,Treatment,15,32.94,True
+1168,196,SVC-001168,Classic Haircut,Cutting,30,54.53,True
+1169,196,SVC-001169,Skin Fade,Cutting,45,66.23,True
+1170,196,SVC-001170,Haircut + Beard Trim,Combination,50,82.84,True
+1171,196,SVC-001171,Hot Towel Shave,Shaving,50,58.46,True
+1172,196,SVC-001172,Kids Haircut,Cutting,40,42.05,True
+1173,197,SVC-001173,Classic Haircut,Cutting,30,40.8,True
+1174,197,SVC-001174,Skin Fade,Cutting,45,55.53,True
+1175,197,SVC-001175,Beard Trim,Facial Hair,20,27.65,True
+1176,197,SVC-001176,Haircut + Beard Trim,Combination,35,61.81,True
+1177,197,SVC-001177,Hot Towel Shave,Shaving,35,45.81,True
+1178,197,SVC-001178,Kids Haircut,Cutting,40,33.79,True
+1179,198,SVC-001179,Signature Facial,Skincare,85,136.27,True
+1180,198,SVC-001180,Advanced Facial,Skincare,125,191.41,True
+1181,198,SVC-001181,Brow Wax,Hair Removal,20,40.87,True
+1182,198,SVC-001182,Full Leg Wax,Hair Removal,65,107.74,True
+1183,198,SVC-001183,Brow Tint,Brows & Lashes,20,51.42,True
+1184,198,SVC-001184,Lash Lift,Brows & Lashes,65,115.34,True
+1185,198,SVC-001185,Chemical Peel,Skin Treatment,65,154.01,True
+1186,199,SVC-001186,Haircut,Cutting,45,71.96,True
+1187,199,SVC-001187,Hair Color,Coloring,90,134.77,True
+1188,199,SVC-001188,Partial Highlights,Coloring,105,156.15,True
+1189,199,SVC-001189,Full Highlights,Coloring,135,221.28,True
+1190,199,SVC-001190,Blowout,Styling,45,63.58,True
+1191,199,SVC-001191,Special Occasion Styling,Styling,45,97.41,True
+1192,200,SVC-001192,Classic Manicure,Manicure,35,31.38,True
+1193,200,SVC-001193,Gel Manicure,Manicure,65,47.22,True
+1194,200,SVC-001194,Classic Pedicure,Pedicure,50,50.78,True
+1195,200,SVC-001195,Deluxe Pedicure,Pedicure,80,70.01,True
+1196,200,SVC-001196,Acrylic Full Set,Enhancements,75,77.13,True
+1197,200,SVC-001197,Acrylic Fill,Enhancements,45,53.91,True
+1198,201,SVC-001198,Classic Manicure,Manicure,20,30.63,True
+1199,201,SVC-001199,Gel Manicure,Manicure,50,46.32,False
+1200,201,SVC-001200,Classic Pedicure,Pedicure,50,47.42,True
+1201,201,SVC-001201,Acrylic Full Set,Enhancements,75,72.85,True
+1202,201,SVC-001202,Nail Art,Nail Art,15,26.05,True
+1203,202,SVC-001203,Classic Haircut,Cutting,30,54.9,True
+1204,202,SVC-001204,Skin Fade,Cutting,45,72.29,True
+1205,202,SVC-001205,Beard Trim,Facial Hair,20,35.94,True
+1206,202,SVC-001206,Haircut + Beard Trim,Combination,50,89.97,True
+1207,202,SVC-001207,Kids Haircut,Cutting,40,46.38,True
+1208,203,SVC-001208,Haircut,Cutting,30,71.06,True
+1209,203,SVC-001209,Hair Color,Coloring,90,140.14,True
+1210,203,SVC-001210,Full Highlights,Coloring,150,213.59,True
+1211,203,SVC-001211,Blowout,Styling,45,63.03,True
+1212,203,SVC-001212,Special Occasion Styling,Styling,60,101.35,False
+1213,204,SVC-001213,Haircut,Cutting,45,62.05,True
+1214,204,SVC-001214,Hair Color,Coloring,90,121.94,True
+1215,204,SVC-001215,Partial Highlights,Coloring,105,147.35,True
+1216,204,SVC-001216,Full Highlights,Coloring,150,196.47,True
+1217,204,SVC-001217,Blowout,Styling,45,55.07,False
+1218,204,SVC-001218,Deep Conditioning,Treatment,30,47.15,True
+1219,205,SVC-001219,Classic Manicure,Manicure,35,31.7,True
+1220,205,SVC-001220,Gel Manicure,Manicure,50,44.92,True
+1221,205,SVC-001221,Classic Pedicure,Pedicure,50,51.67,True
+1222,205,SVC-001222,Deluxe Pedicure,Pedicure,65,69.42,True
+1223,205,SVC-001223,Acrylic Full Set,Enhancements,90,79.02,True
+1224,205,SVC-001224,Nail Art,Nail Art,15,26.74,True
+1225,206,SVC-001225,Haircut,Cutting,45,64.91,True
+1226,206,SVC-001226,Hair Color,Coloring,105,114.93,True
+1227,206,SVC-001227,Partial Highlights,Coloring,120,137.73,True
+1228,206,SVC-001228,Full Highlights,Coloring,150,185.88,True
+1229,206,SVC-001229,Blowout,Styling,60,57.44,True
+1230,206,SVC-001230,Special Occasion Styling,Styling,60,91.02,True
+1231,207,SVC-001231,Classic Manicure,Manicure,35,38.52,True
+1232,207,SVC-001232,Gel Manicure,Manicure,50,49.18,True
+1233,207,SVC-001233,Deluxe Pedicure,Pedicure,80,79.47,True
+1234,207,SVC-001234,Acrylic Fill,Enhancements,60,64.75,True
+1235,207,SVC-001235,Nail Art,Nail Art,30,29.5,True
+1236,208,SVC-001236,Haircut,Cutting,45,67.78,True
+1237,208,SVC-001237,Hair Color,Coloring,105,119.95,True
+1238,208,SVC-001238,Partial Highlights,Coloring,105,147.69,True
+1239,208,SVC-001239,Blowout,Styling,30,60.36,True
+1240,208,SVC-001240,Special Occasion Styling,Styling,60,101.39,True
+1241,208,SVC-001241,Deep Conditioning,Treatment,45,50.94,True
+1242,209,SVC-001242,Haircut,Cutting,45,60.95,True
+1243,209,SVC-001243,Hair Color,Coloring,90,115.78,True
+1244,209,SVC-001244,Partial Highlights,Coloring,105,140.73,True
+1245,209,SVC-001245,Full Highlights,Coloring,150,176.72,True
+1246,209,SVC-001246,Blowout,Styling,45,58.02,True
+1247,209,SVC-001247,Deep Conditioning,Treatment,30,46.73,True
+1248,210,SVC-001248,Classic Manicure,Manicure,50,29.74,True
+1249,210,SVC-001249,Gel Manicure,Manicure,35,44.87,True
+1250,210,SVC-001250,Classic Pedicure,Pedicure,50,44.11,True
+1251,210,SVC-001251,Deluxe Pedicure,Pedicure,65,63.14,True
+1252,210,SVC-001252,Acrylic Full Set,Enhancements,75,74.32,True
+1253,210,SVC-001253,Acrylic Fill,Enhancements,75,52.5,False
+1254,211,SVC-001254,Signature Facial,Skincare,65,110.58,True
+1255,211,SVC-001255,Advanced Facial,Skincare,125,169.32,True
+1256,211,SVC-001256,Full Leg Wax,Hair Removal,105,98.96,True
+1257,211,SVC-001257,Lash Lift,Brows & Lashes,105,109.38,True
+1258,211,SVC-001258,Chemical Peel,Skin Treatment,85,141.26,True
+1259,212,SVC-001259,Haircut,Cutting,60,59.41,True
+1260,212,SVC-001260,Hair Color,Coloring,105,116.79,True
+1261,212,SVC-001261,Full Highlights,Coloring,165,182.61,True
+1262,212,SVC-001262,Blowout,Styling,30,55.39,True
+1263,212,SVC-001263,Special Occasion Styling,Styling,60,83.62,True
+1264,212,SVC-001264,Deep Conditioning,Treatment,30,45.95,True
+1265,213,SVC-001265,Haircut,Cutting,45,65.47,True
+1266,213,SVC-001266,Hair Color,Coloring,90,119.05,True
+1267,213,SVC-001267,Partial Highlights,Coloring,105,149.84,True
+1268,213,SVC-001268,Full Highlights,Coloring,150,189.91,False
+1269,213,SVC-001269,Blowout,Styling,45,61.94,True
+1270,213,SVC-001270,Deep Conditioning,Treatment,30,49.02,True
+1271,214,SVC-001271,Haircut,Cutting,45,68.49,True
+1272,214,SVC-001272,Hair Color,Coloring,90,122.89,True
+1273,214,SVC-001273,Partial Highlights,Coloring,105,141.06,True
+1274,214,SVC-001274,Full Highlights,Coloring,135,201.21,True
+1275,214,SVC-001275,Blowout,Styling,45,60.11,True
+1276,214,SVC-001276,Special Occasion Styling,Styling,45,97.73,True
+1277,214,SVC-001277,Deep Conditioning,Treatment,45,47.58,True
+1278,215,SVC-001278,Signature Facial,Skincare,85,130.59,True
+1279,215,SVC-001279,Advanced Facial,Skincare,125,203.83,True
+1280,215,SVC-001280,Brow Wax,Hair Removal,50,39.05,True
+1281,215,SVC-001281,Full Leg Wax,Hair Removal,85,121.56,True
+1282,215,SVC-001282,Brow Tint,Brows & Lashes,65,50.30,True
+1283,215,SVC-001283,Chemical Peel,Skin Treatment,40,160.67,True
+1284,216,SVC-001284,Haircut,Cutting,45,60.21,True
+1285,216,SVC-001285,Hair Color,Coloring,90,115.4,True
+1286,216,SVC-001286,Partial Highlights,Coloring,90,131.39,True
+1287,216,SVC-001287,Full Highlights,Coloring,150,188.44,True
+1288,216,SVC-001288,Blowout,Styling,45,56.92,True
+1289,216,SVC-001289,Deep Conditioning,Treatment,15,48.2,True
+1290,217,SVC-001290,Classic Manicure,Manicure,20,35.07,True
+1291,217,SVC-001291,Gel Manicure,Manicure,35,47.07,True
+1292,217,SVC-001292,Classic Pedicure,Pedicure,50,54.06,True
+1293,217,SVC-001293,Deluxe Pedicure,Pedicure,65,77.82,True
+1294,217,SVC-001294,Acrylic Fill,Enhancements,60,61.83,True
+1295,218,SVC-001295,Signature Facial,Skincare,105,110.30,True
+1296,218,SVC-001296,Advanced Facial,Skincare,125,175.72,True
+1297,218,SVC-001297,Brow Wax,Hair Removal,30,33.52,True
+1298,218,SVC-001298,Full Leg Wax,Hair Removal,85,95.68,True
+1299,218,SVC-001299,Brow Tint,Brows & Lashes,20,44.72,True
+1300,218,SVC-001300,Chemical Peel,Skin Treatment,85,129.69,True
+1301,219,SVC-001301,Classic Manicure,Manicure,35,36.93,True
+1302,219,SVC-001302,Gel Manicure,Manicure,35,50.02,True
+1303,219,SVC-001303,Classic Pedicure,Pedicure,50,58.71,True
+1304,219,SVC-001304,Deluxe Pedicure,Pedicure,65,80.55,True
+1305,219,SVC-001305,Acrylic Full Set,Enhancements,75,85.98,True
+1306,219,SVC-001306,Acrylic Fill,Enhancements,45,62.8,True
+1307,219,SVC-001307,Nail Art,Nail Art,30,29.2,True
+1308,220,SVC-001308,Haircut,Cutting,60,72.32,True
+1309,220,SVC-001309,Hair Color,Coloring,90,131.96,True
+1310,220,SVC-001310,Partial Highlights,Coloring,105,147.34,True
+1311,220,SVC-001311,Full Highlights,Coloring,150,215.48,True
+1312,220,SVC-001312,Blowout,Styling,30,64.13,True
+1313,220,SVC-001313,Deep Conditioning,Treatment,30,52.09,True
+1314,221,SVC-001314,Haircut,Cutting,45,64.91,True
+1315,221,SVC-001315,Hair Color,Coloring,105,112.68,False
+1316,221,SVC-001316,Partial Highlights,Coloring,120,136.59,True
+1317,221,SVC-001317,Full Highlights,Coloring,165,184.84,True
+1318,221,SVC-001318,Blowout,Styling,45,58.28,True
+1319,221,SVC-001319,Special Occasion Styling,Styling,75,90.42,True
+1320,221,SVC-001320,Deep Conditioning,Treatment,30,46.27,True
+1321,222,SVC-001321,Haircut,Cutting,60,68.61,True
+1322,222,SVC-001322,Hair Color,Coloring,90,136.07,True
+1323,222,SVC-001323,Partial Highlights,Coloring,105,161.23,True
+1324,222,SVC-001324,Full Highlights,Coloring,135,222.02,True
+1325,222,SVC-001325,Blowout,Styling,60,67.97,True
+1326,222,SVC-001326,Special Occasion Styling,Styling,60,100.54,True
+1327,222,SVC-001327,Deep Conditioning,Treatment,30,54.02,True
+1328,223,SVC-001328,Classic Haircut,Cutting,45,38.1,True
+1329,223,SVC-001329,Skin Fade,Cutting,45,51.78,True
+1330,223,SVC-001330,Beard Trim,Facial Hair,20,25.8,True
+1331,223,SVC-001331,Haircut + Beard Trim,Combination,50,61.66,True
+1332,223,SVC-001332,Hot Towel Shave,Shaving,35,42.01,True
+1333,224,SVC-001333,Classic Haircut,Cutting,30,40.58,True
+1334,224,SVC-001334,Skin Fade,Cutting,45,47.71,True
+1335,224,SVC-001335,Beard Trim,Facial Hair,35,25.24,True
+1336,224,SVC-001336,Haircut + Beard Trim,Combination,50,59.42,True
+1337,224,SVC-001337,Hot Towel Shave,Shaving,50,44.31,True
+1338,224,SVC-001338,Kids Haircut,Cutting,40,30.89,True
+1339,225,SVC-001339,Haircut,Cutting,45,73.21,True
+1340,225,SVC-001340,Hair Color,Coloring,105,123.12,True
+1341,225,SVC-001341,Partial Highlights,Coloring,105,148.61,True
+1342,225,SVC-001342,Blowout,Styling,60,65.84,True
+1343,225,SVC-001343,Deep Conditioning,Treatment,30,47.25,False
+1344,226,SVC-001344,Haircut,Cutting,45,60.44,True
+1345,226,SVC-001345,Hair Color,Coloring,90,119.26,True
+1346,226,SVC-001346,Partial Highlights,Coloring,105,136.35,True
+1347,226,SVC-001347,Blowout,Styling,45,58.39,True
+1348,226,SVC-001348,Special Occasion Styling,Styling,75,88.45,True
+1349,226,SVC-001349,Deep Conditioning,Treatment,45,43.48,True
+1350,227,SVC-001350,Classic Manicure,Manicure,50,33.3,True
+1351,227,SVC-001351,Gel Manicure,Manicure,50,44.07,True
+1352,227,SVC-001352,Classic Pedicure,Pedicure,50,47.65,True
+1353,227,SVC-001353,Acrylic Full Set,Enhancements,90,73.54,True
+1354,227,SVC-001354,Acrylic Fill,Enhancements,45,56.13,True
+1355,227,SVC-001355,Nail Art,Nail Art,30,25.35,True
+1356,228,SVC-001356,Classic Manicure,Manicure,35,38.15,True
+1357,228,SVC-001357,Gel Manicure,Manicure,35,53.6,True
+1358,228,SVC-001358,Classic Pedicure,Pedicure,50,57.82,True
+1359,228,SVC-001359,Deluxe Pedicure,Pedicure,65,79.97,True
+1360,228,SVC-001360,Acrylic Full Set,Enhancements,75,89.16,True
+1361,228,SVC-001361,Acrylic Fill,Enhancements,60,64.74,True
+1362,229,SVC-001362,Classic Manicure,Manicure,20,27.74,True
+1363,229,SVC-001363,Gel Manicure,Manicure,35,38.49,False
+1364,229,SVC-001364,Classic Pedicure,Pedicure,50,45.6,True
+1365,229,SVC-001365,Acrylic Full Set,Enhancements,75,69.0,True
+1366,229,SVC-001366,Acrylic Fill,Enhancements,60,51.39,True
+1367,229,SVC-001367,Nail Art,Nail Art,15,24.32,True
+1368,230,SVC-001368,Classic Manicure,Manicure,20,37.88,True
+1369,230,SVC-001369,Gel Manicure,Manicure,50,57.88,True
+1370,230,SVC-001370,Classic Pedicure,Pedicure,35,60.68,True
+1371,230,SVC-001371,Deluxe Pedicure,Pedicure,65,83.45,True
+1372,230,SVC-001372,Acrylic Full Set,Enhancements,75,96.35,True
+1373,230,SVC-001373,Acrylic Fill,Enhancements,60,67.27,True
+1374,231,SVC-001374,Haircut,Cutting,30,62.75,True
+1375,231,SVC-001375,Hair Color,Coloring,90,102.57,True
+1376,231,SVC-001376,Partial Highlights,Coloring,105,120.97,True
+1377,231,SVC-001377,Full Highlights,Coloring,135,181.71,True
+1378,231,SVC-001378,Blowout,Styling,30,55.31,True
+1379,231,SVC-001379,Deep Conditioning,Treatment,15,45.51,True
+1380,232,SVC-001380,Haircut,Cutting,60,66.45,True
+1381,232,SVC-001381,Hair Color,Coloring,105,124.63,False
+1382,232,SVC-001382,Partial Highlights,Coloring,90,143.71,True
+1383,232,SVC-001383,Full Highlights,Coloring,165,207.13,True
+1384,232,SVC-001384,Blowout,Styling,45,59.89,True
+1385,232,SVC-001385,Deep Conditioning,Treatment,30,46.96,False
+1386,233,SVC-001386,Haircut,Cutting,45,71.77,True
+1387,233,SVC-001387,Partial Highlights,Coloring,105,137.47,True
+1388,233,SVC-001388,Full Highlights,Coloring,150,207.89,True
+1389,233,SVC-001389,Blowout,Styling,45,63.96,True
+1390,233,SVC-001390,Deep Conditioning,Treatment,15,49.22,True
+1391,234,SVC-001391,Signature Facial,Skincare,105,144.49,True
+1392,234,SVC-001392,Advanced Facial,Skincare,125,211.87,True
+1393,234,SVC-001393,Brow Wax,Hair Removal,50,42.46,True
+1394,234,SVC-001394,Full Leg Wax,Hair Removal,85,113.15,True
+1395,234,SVC-001395,Brow Tint,Brows & Lashes,40,56.61,True
+1396,234,SVC-001396,Chemical Peel,Skin Treatment,85,157.99,True
+1397,235,SVC-001397,Haircut,Cutting,60,58.93,True
+1398,235,SVC-001398,Hair Color,Coloring,90,98.9,True
+1399,235,SVC-001399,Partial Highlights,Coloring,105,114.27,True
+1400,235,SVC-001400,Full Highlights,Coloring,150,161.83,True
+1401,235,SVC-001401,Blowout,Styling,30,50.76,True
+1402,235,SVC-001402,Special Occasion Styling,Styling,45,79.28,True
+1403,236,SVC-001403,Signature Facial,Skincare,85,101.64,True
+1404,236,SVC-001404,Advanced Facial,Skincare,105,155.38,True
+1405,236,SVC-001405,Brow Wax,Hair Removal,20,29.62,True
+1406,236,SVC-001406,Full Leg Wax,Hair Removal,85,84.88,True
+1407,236,SVC-001407,Brow Tint,Brows & Lashes,65,41.14,True
+1408,236,SVC-001408,Lash Lift,Brows & Lashes,85,90.74,True
+1409,236,SVC-001409,Chemical Peel,Skin Treatment,65,118.09,True
+1410,237,SVC-001410,Classic Haircut,Cutting,45,37.39,True
+1411,237,SVC-001411,Skin Fade,Cutting,60,49.28,True
+1412,237,SVC-001412,Beard Trim,Facial Hair,20,25.99,True
+1413,237,SVC-001413,Haircut + Beard Trim,Combination,50,55.16,True
+1414,237,SVC-001414,Hot Towel Shave,Shaving,35,39.09,True
+1415,238,SVC-001415,Classic Haircut,Cutting,30,38.36,True
+1416,238,SVC-001416,Skin Fade,Cutting,30,46.95,True
+1417,238,SVC-001417,Beard Trim,Facial Hair,15,24.9,True
+1418,238,SVC-001418,Haircut + Beard Trim,Combination,50,56.18,True
+1419,238,SVC-001419,Hot Towel Shave,Shaving,35,37.96,True
+1420,238,SVC-001420,Kids Haircut,Cutting,40,29.12,True
+1421,239,SVC-001421,Haircut,Cutting,60,74.48,True
+1422,239,SVC-001422,Hair Color,Coloring,75,125.19,True
+1423,239,SVC-001423,Full Highlights,Coloring,150,212.58,True
+1424,239,SVC-001424,Blowout,Styling,30,67.96,True
+1425,239,SVC-001425,Special Occasion Styling,Styling,75,103.42,True
+1426,239,SVC-001426,Deep Conditioning,Treatment,30,52.94,True
+1427,240,SVC-001427,Classic Manicure,Manicure,50,48.63,True
+1428,240,SVC-001428,Gel Manicure,Manicure,35,69.39,True
+1429,240,SVC-001429,Classic Pedicure,Pedicure,50,71.87,True
+1430,240,SVC-001430,Deluxe Pedicure,Pedicure,65,95.41,True
+1431,240,SVC-001431,Acrylic Full Set,Enhancements,75,115.78,True
+1432,240,SVC-001432,Acrylic Fill,Enhancements,60,77.34,True
+1433,241,SVC-001433,Classic Manicure,Manicure,20,40.38,True
+1434,241,SVC-001434,Gel Manicure,Manicure,35,57.25,True
+1435,241,SVC-001435,Classic Pedicure,Pedicure,35,61.48,True
+1436,241,SVC-001436,Acrylic Fill,Enhancements,60,68.14,True
+1437,241,SVC-001437,Nail Art,Nail Art,30,32.24,True
+1438,242,SVC-001438,Haircut,Cutting,30,52.83,True
+1439,242,SVC-001439,Hair Color,Coloring,105,92.49,True
+1440,242,SVC-001440,Partial Highlights,Coloring,120,108.99,True
+1441,242,SVC-001441,Full Highlights,Coloring,135,147.8,True
+1442,242,SVC-001442,Blowout,Styling,45,42.76,True
+1443,242,SVC-001443,Special Occasion Styling,Styling,45,70.66,True
+1444,243,SVC-001444,Classic Haircut,Cutting,30,43.39,True
+1445,243,SVC-001445,Skin Fade,Cutting,30,57.45,True
+1446,243,SVC-001446,Beard Trim,Facial Hair,35,28.77,True
+1447,243,SVC-001447,Haircut + Beard Trim,Combination,50,65.52,False
+1448,243,SVC-001448,Hot Towel Shave,Shaving,35,49.78,True
+1449,243,SVC-001449,Kids Haircut,Cutting,25,32.99,True
+1450,244,SVC-001450,Classic Haircut,Cutting,30,43.11,True
+1451,244,SVC-001451,Skin Fade,Cutting,45,54.72,True
+1452,244,SVC-001452,Beard Trim,Facial Hair,20,26.4,True
+1453,244,SVC-001453,Haircut + Beard Trim,Combination,65,65.95,True
+1454,244,SVC-001454,Hot Towel Shave,Shaving,35,43.37,True
+1455,244,SVC-001455,Kids Haircut,Cutting,25,31.19,True
+1456,245,SVC-001456,Haircut,Cutting,45,65.84,True
+1457,245,SVC-001457,Hair Color,Coloring,90,121.78,False
+1458,245,SVC-001458,Partial Highlights,Coloring,90,152.35,True
+1459,245,SVC-001459,Full Highlights,Coloring,135,207.85,True
+1460,245,SVC-001460,Blowout,Styling,45,59.68,True
+1461,245,SVC-001461,Special Occasion Styling,Styling,45,100.18,True
+1462,245,SVC-001462,Deep Conditioning,Treatment,30,48.32,True
+1463,246,SVC-001463,Signature Facial,Skincare,65,135.19,True
+1464,246,SVC-001464,Advanced Facial,Skincare,145,206.44,True
+1465,246,SVC-001465,Brow Wax,Hair Removal,30,38.64,True
+1466,246,SVC-001466,Brow Tint,Brows & Lashes,40,57.63,True
+1467,246,SVC-001467,Lash Lift,Brows & Lashes,85,131.74,True
+1468,246,SVC-001468,Chemical Peel,Skin Treatment,65,174.13,True
+1469,247,SVC-001469,Classic Haircut,Cutting,15,32.0,True
+1470,247,SVC-001470,Skin Fade,Cutting,45,42.49,True
+1471,247,SVC-001471,Beard Trim,Facial Hair,35,22.33,True
+1472,247,SVC-001472,Haircut + Beard Trim,Combination,35,51.0,True
+1473,247,SVC-001473,Hot Towel Shave,Shaving,35,33.62,True
+1474,247,SVC-001474,Kids Haircut,Cutting,40,25.37,True
+1475,248,SVC-001475,Classic Haircut,Cutting,45,39.32,True
+1476,248,SVC-001476,Skin Fade,Cutting,30,50.92,True
+1477,248,SVC-001477,Beard Trim,Facial Hair,20,26.0,False
+1478,248,SVC-001478,Haircut + Beard Trim,Combination,50,63.25,True
+1479,248,SVC-001479,Hot Towel Shave,Shaving,35,43.34,True
+1480,248,SVC-001480,Kids Haircut,Cutting,25,33.31,True
+1481,249,SVC-001481,Signature Facial,Skincare,65,144.58,True
+1482,249,SVC-001482,Advanced Facial,Skincare,145,222.94,True
+1483,249,SVC-001483,Brow Wax,Hair Removal,20,43.65,True
+1484,249,SVC-001484,Full Leg Wax,Hair Removal,85,123.24,True
+1485,249,SVC-001485,Brow Tint,Brows & Lashes,65,58.16,True
+1486,249,SVC-001486,Lash Lift,Brows & Lashes,65,127.64,True
+1487,249,SVC-001487,Chemical Peel,Skin Treatment,65,180.79,True
+1488,250,SVC-001488,Classic Haircut,Cutting,30,48.94,True
+1489,250,SVC-001489,Skin Fade,Cutting,45,60.08,True
+1490,250,SVC-001490,Beard Trim,Facial Hair,15,30.67,True
+1491,250,SVC-001491,Haircut + Beard Trim,Combination,50,70.43,True
+1492,250,SVC-001492,Hot Towel Shave,Shaving,35,52.07,True
+1493,250,SVC-001493,Kids Haircut,Cutting,25,39.08,True

@@ -1,0 +1,6 @@
+ServiceEventStatusKey,ServiceEventStatusName,StatusCategoryName
+1,Scheduled,Open
+2,Completed,Completed
+3,Canceled by Client,Canceled
+4,Canceled by Business,Canceled
+5,No-Show,No-Show

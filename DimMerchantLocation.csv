@@ -1,0 +1,301 @@
+MerchantLocationKey,MerchantKey,MerchantLocationID,LocationName,CityName,StateProvinceName,CountryName
+1,1,LOC-000001,Main,San Diego,California,United States
+2,2,LOC-000002,Main,Chicago,Illinois,United States
+3,3,LOC-000003,Main,Portland,Oregon,United States
+4,4,LOC-000004,Main,Boston,Massachusetts,United States
+5,5,LOC-000005,Main,Dallas,Texas,United States
+6,6,LOC-000006,Main,Charlotte,North Carolina,United States
+7,7,LOC-000007,Main,New York,New York,United States
+8,8,LOC-000008,Main,Charlotte,North Carolina,United States
+9,8,LOC-000009,Central,Charlotte,North Carolina,United States
+10,9,LOC-000010,Main,Los Angeles,California,United States
+11,10,LOC-000011,Main,Chicago,Illinois,United States
+12,11,LOC-000012,Main,San Francisco,California,United States
+13,11,LOC-000013,West,San Francisco,California,United States
+14,12,LOC-000014,Main,Houston,Texas,United States
+15,13,LOC-000015,Main,Philadelphia,Pennsylvania,United States
+16,14,LOC-000016,Main,Houston,Texas,United States
+17,15,LOC-000017,Main,New York,New York,United States
+18,16,LOC-000018,Main,Denver,Colorado,United States
+19,17,LOC-000019,Main,Houston,Texas,United States
+20,18,LOC-000020,Main,Denver,Colorado,United States
+21,19,LOC-000021,Main,Denver,Colorado,United States
+22,20,LOC-000022,Main,Chicago,Illinois,United States
+23,21,LOC-000023,Main,Austin,Texas,United States
+24,22,LOC-000024,Main,Denver,Colorado,United States
+25,23,LOC-000025,Main,Atlanta,Georgia,United States
+26,24,LOC-000026,Main,Dallas,Texas,United States
+27,25,LOC-000027,Main,Atlanta,Georgia,United States
+28,26,LOC-000028,Main,San Francisco,California,United States
+29,27,LOC-000029,Main,New York,New York,United States
+30,27,LOC-000030,Downtown,New York,New York,United States
+31,28,LOC-000031,Main,Houston,Texas,United States
+32,29,LOC-000032,Main,Charlotte,North Carolina,United States
+33,29,LOC-000033,Downtown,Charlotte,North Carolina,United States
+34,30,LOC-000034,Main,Philadelphia,Pennsylvania,United States
+35,30,LOC-000035,West,Philadelphia,Pennsylvania,United States
+36,31,LOC-000036,Main,Seattle,Washington,United States
+37,32,LOC-000037,Main,Los Angeles,California,United States
+38,33,LOC-000038,Main,Boston,Massachusetts,United States
+39,34,LOC-000039,Main,Dallas,Texas,United States
+40,35,LOC-000040,Main,Chicago,Illinois,United States
+41,36,LOC-000041,Main,Charlotte,North Carolina,United States
+42,37,LOC-000042,Main,Boston,Massachusetts,United States
+43,37,LOC-000043,South,Boston,Massachusetts,United States
+44,38,LOC-000044,Main,Phoenix,Arizona,United States
+45,39,LOC-000045,Main,Charlotte,North Carolina,United States
+46,40,LOC-000046,Main,Denver,Colorado,United States
+47,41,LOC-000047,Main,Atlanta,Georgia,United States
+48,42,LOC-000048,Main,New York,New York,United States
+49,43,LOC-000049,Main,Dallas,Texas,United States
+50,44,LOC-000050,Main,San Antonio,Texas,United States
+51,45,LOC-000051,Main,Seattle,Washington,United States
+52,46,LOC-000052,Main,Charlotte,North Carolina,United States
+53,46,LOC-000053,Uptown,Charlotte,North Carolina,United States
+54,47,LOC-000054,Main,Chicago,Illinois,United States
+55,47,LOC-000055,South,Chicago,Illinois,United States
+56,48,LOC-000056,Main,Charlotte,North Carolina,United States
+57,48,LOC-000057,Central,Charlotte,North Carolina,United States
+58,49,LOC-000058,Main,Austin,Texas,United States
+59,49,LOC-000059,West,Austin,Texas,United States
+60,50,LOC-000060,Main,San Francisco,California,United States
+61,51,LOC-000061,Main,New York,New York,United States
+62,52,LOC-000062,Main,Phoenix,Arizona,United States
+63,52,LOC-000063,Parkway,Phoenix,Arizona,United States
+64,53,LOC-000064,Main,Chicago,Illinois,United States
+65,54,LOC-000065,Main,Miami,Florida,United States
+66,55,LOC-000066,Main,Dallas,Texas,United States
+67,55,LOC-000067,Downtown,Dallas,Texas,United States
+68,56,LOC-000068,Main,Los Angeles,California,United States
+69,57,LOC-000069,Main,San Antonio,Texas,United States
+70,58,LOC-000070,Main,Seattle,Washington,United States
+71,59,LOC-000071,Main,Austin,Texas,United States
+72,60,LOC-000072,Main,Austin,Texas,United States
+73,61,LOC-000073,Main,Philadelphia,Pennsylvania,United States
+74,62,LOC-000074,Main,New York,New York,United States
+75,62,LOC-000075,Central,New York,New York,United States
+76,63,LOC-000076,Main,Seattle,Washington,United States
+77,64,LOC-000077,Main,Seattle,Washington,United States
+78,65,LOC-000078,Main,Minneapolis,Minnesota,United States
+79,66,LOC-000079,Main,Philadelphia,Pennsylvania,United States
+80,66,LOC-000080,Downtown,Philadelphia,Pennsylvania,United States
+81,67,LOC-000081,Main,Chicago,Illinois,United States
+82,68,LOC-000082,Main,San Francisco,California,United States
+83,69,LOC-000083,Main,Jacksonville,Florida,United States
+84,69,LOC-000084,North,Jacksonville,Florida,United States
+85,70,LOC-000085,Main,Houston,Texas,United States
+86,71,LOC-000086,Main,Chicago,Illinois,United States
+87,72,LOC-000087,Main,Philadelphia,Pennsylvania,United States
+88,73,LOC-000088,Main,Atlanta,Georgia,United States
+89,74,LOC-000089,Main,New York,New York,United States
+90,75,LOC-000090,Main,San Antonio,Texas,United States
+91,76,LOC-000091,Main,New York,New York,United States
+92,77,LOC-000092,Main,San Diego,California,United States
+93,78,LOC-000093,Main,New York,New York,United States
+94,79,LOC-000094,Main,Dallas,Texas,United States
+95,80,LOC-000095,Main,Phoenix,Arizona,United States
+96,80,LOC-000096,East,Phoenix,Arizona,United States
+97,81,LOC-000097,Main,Austin,Texas,United States
+98,82,LOC-000098,Main,San Antonio,Texas,United States
+99,82,LOC-000099,Parkway,San Antonio,Texas,United States
+100,83,LOC-000100,Main,New York,New York,United States
+101,84,LOC-000101,Main,San Diego,California,United States
+102,85,LOC-000102,Main,Seattle,Washington,United States
+103,86,LOC-000103,Main,Seattle,Washington,United States
+104,87,LOC-000104,Main,Phoenix,Arizona,United States
+105,88,LOC-000105,Main,Seattle,Washington,United States
+106,89,LOC-000106,Main,Chicago,Illinois,United States
+107,90,LOC-000107,Main,New York,New York,United States
+108,91,LOC-000108,Main,Charlotte,North Carolina,United States
+109,92,LOC-000109,Main,San Diego,California,United States
+110,93,LOC-000110,Main,Chicago,Illinois,United States
+111,94,LOC-000111,Main,San Antonio,Texas,United States
+112,94,LOC-000112,Uptown,San Antonio,Texas,United States
+113,95,LOC-000113,Main,Philadelphia,Pennsylvania,United States
+114,96,LOC-000114,Main,New York,New York,United States
+115,97,LOC-000115,Main,Dallas,Texas,United States
+116,98,LOC-000116,Main,Denver,Colorado,United States
+117,99,LOC-000117,Main,Denver,Colorado,United States
+118,100,LOC-000118,Main,New York,New York,United States
+119,101,LOC-000119,Main,Jacksonville,Florida,United States
+120,102,LOC-000120,Main,Los Angeles,California,United States
+121,103,LOC-000121,Main,New York,New York,United States
+122,104,LOC-000122,Main,Portland,Oregon,United States
+123,105,LOC-000123,Main,San Antonio,Texas,United States
+124,105,LOC-000124,West,San Antonio,Texas,United States
+125,106,LOC-000125,Main,Minneapolis,Minnesota,United States
+126,106,LOC-000126,East,Minneapolis,Minnesota,United States
+127,107,LOC-000127,Main,New York,New York,United States
+128,108,LOC-000128,Main,Austin,Texas,United States
+129,108,LOC-000129,Downtown,Austin,Texas,United States
+130,108,LOC-000130,Central,Austin,Texas,United States
+131,109,LOC-000131,Main,Phoenix,Arizona,United States
+132,109,LOC-000132,North,Phoenix,Arizona,United States
+133,110,LOC-000133,Main,Portland,Oregon,United States
+134,111,LOC-000134,Main,San Antonio,Texas,United States
+135,112,LOC-000135,Main,Minneapolis,Minnesota,United States
+136,113,LOC-000136,Main,San Francisco,California,United States
+137,114,LOC-000137,Main,San Antonio,Texas,United States
+138,115,LOC-000138,Main,Phoenix,Arizona,United States
+139,116,LOC-000139,Main,Dallas,Texas,United States
+140,117,LOC-000140,Main,Chicago,Illinois,United States
+141,118,LOC-000141,Main,Seattle,Washington,United States
+142,119,LOC-000142,Main,New York,New York,United States
+143,119,LOC-000143,East,New York,New York,United States
+144,120,LOC-000144,Main,Jacksonville,Florida,United States
+145,120,LOC-000145,North,Jacksonville,Florida,United States
+146,121,LOC-000146,Main,Portland,Oregon,United States
+147,122,LOC-000147,Main,San Francisco,California,United States
+148,122,LOC-000148,Uptown,San Francisco,California,United States
+149,123,LOC-000149,Main,Houston,Texas,United States
+150,124,LOC-000150,Main,Charlotte,North Carolina,United States
+151,124,LOC-000151,Central,Charlotte,North Carolina,United States
+152,125,LOC-000152,Main,Los Angeles,California,United States
+153,125,LOC-000153,North,Los Angeles,California,United States
+154,125,LOC-000154,South,Los Angeles,California,United States
+155,126,LOC-000155,Main,Jacksonville,Florida,United States
+156,127,LOC-000156,Main,Chicago,Illinois,United States
+157,128,LOC-000157,Main,Boston,Massachusetts,United States
+158,129,LOC-000158,Main,Houston,Texas,United States
+159,130,LOC-000159,Main,New York,New York,United States
+160,131,LOC-000160,Main,Austin,Texas,United States
+161,131,LOC-000161,Lakeside,Austin,Texas,United States
+162,132,LOC-000162,Main,San Diego,California,United States
+163,133,LOC-000163,Main,Chicago,Illinois,United States
+164,134,LOC-000164,Main,Philadelphia,Pennsylvania,United States
+165,135,LOC-000165,Main,Austin,Texas,United States
+166,136,LOC-000166,Main,New York,New York,United States
+167,137,LOC-000167,Main,Portland,Oregon,United States
+168,138,LOC-000168,Main,Portland,Oregon,United States
+169,139,LOC-000169,Main,Austin,Texas,United States
+170,140,LOC-000170,Main,Los Angeles,California,United States
+171,141,LOC-000171,Main,Seattle,Washington,United States
+172,141,LOC-000172,Downtown,Seattle,Washington,United States
+173,142,LOC-000173,Main,Jacksonville,Florida,United States
+174,143,LOC-000174,Main,Houston,Texas,United States
+175,144,LOC-000175,Main,Los Angeles,California,United States
+176,145,LOC-000176,Main,Houston,Texas,United States
+177,146,LOC-000177,Main,Miami,Florida,United States
+178,147,LOC-000178,Main,Jacksonville,Florida,United States
+179,148,LOC-000179,Main,Dallas,Texas,United States
+180,149,LOC-000180,Main,San Francisco,California,United States
+181,150,LOC-000181,Main,Jacksonville,Florida,United States
+182,151,LOC-000182,Main,Minneapolis,Minnesota,United States
+183,152,LOC-000183,Main,Los Angeles,California,United States
+184,152,LOC-000184,North,Los Angeles,California,United States
+185,153,LOC-000185,Main,New York,New York,United States
+186,154,LOC-000186,Main,Houston,Texas,United States
+187,155,LOC-000187,Main,Houston,Texas,United States
+188,156,LOC-000188,Main,Philadelphia,Pennsylvania,United States
+189,157,LOC-000189,Main,Houston,Texas,United States
+190,158,LOC-000190,Main,Charlotte,North Carolina,United States
+191,158,LOC-000191,South,Charlotte,North Carolina,United States
+192,159,LOC-000192,Main,Boston,Massachusetts,United States
+193,160,LOC-000193,Main,Jacksonville,Florida,United States
+194,161,LOC-000194,Main,Miami,Florida,United States
+195,162,LOC-000195,Main,San Antonio,Texas,United States
+196,163,LOC-000196,Main,Boston,Massachusetts,United States
+197,164,LOC-000197,Main,New York,New York,United States
+198,165,LOC-000198,Main,Austin,Texas,United States
+199,166,LOC-000199,Main,Dallas,Texas,United States
+200,167,LOC-000200,Main,New York,New York,United States
+201,168,LOC-000201,Main,San Diego,California,United States
+202,169,LOC-000202,Main,Atlanta,Georgia,United States
+203,170,LOC-000203,Main,Los Angeles,California,United States
+204,170,LOC-000204,Lakeside,Los Angeles,California,United States
+205,171,LOC-000205,Main,Minneapolis,Minnesota,United States
+206,172,LOC-000206,Main,Atlanta,Georgia,United States
+207,172,LOC-000207,Uptown,Atlanta,Georgia,United States
+208,173,LOC-000208,Main,San Diego,California,United States
+209,174,LOC-000209,Main,Chicago,Illinois,United States
+210,175,LOC-000210,Main,Houston,Texas,United States
+211,175,LOC-000211,East,Houston,Texas,United States
+212,176,LOC-000212,Main,San Diego,California,United States
+213,177,LOC-000213,Main,Los Angeles,California,United States
+214,177,LOC-000214,Parkway,Los Angeles,California,United States
+215,177,LOC-000215,North,Los Angeles,California,United States
+216,178,LOC-000216,Main,Boston,Massachusetts,United States
+217,179,LOC-000217,Main,Houston,Texas,United States
+218,180,LOC-000218,Main,Miami,Florida,United States
+219,181,LOC-000219,Main,Atlanta,Georgia,United States
+220,182,LOC-000220,Main,Portland,Oregon,United States
+221,183,LOC-000221,Main,Portland,Oregon,United States
+222,184,LOC-000222,Main,San Francisco,California,United States
+223,185,LOC-000223,Main,Chicago,Illinois,United States
+224,186,LOC-000224,Main,Chicago,Illinois,United States
+225,187,LOC-000225,Main,Denver,Colorado,United States
+226,188,LOC-000226,Main,Chicago,Illinois,United States
+227,189,LOC-000227,Main,Seattle,Washington,United States
+228,190,LOC-000228,Main,San Antonio,Texas,United States
+229,191,LOC-000229,Main,San Antonio,Texas,United States
+230,192,LOC-000230,Main,Miami,Florida,United States
+231,193,LOC-000231,Main,Phoenix,Arizona,United States
+232,194,LOC-000232,Main,Boston,Massachusetts,United States
+233,195,LOC-000233,Main,Jacksonville,Florida,United States
+234,196,LOC-000234,Main,New York,New York,United States
+235,196,LOC-000235,North,New York,New York,United States
+236,197,LOC-000236,Main,Austin,Texas,United States
+237,197,LOC-000237,South,Austin,Texas,United States
+238,198,LOC-000238,Main,Seattle,Washington,United States
+239,198,LOC-000239,Lakeside,Seattle,Washington,United States
+240,199,LOC-000240,Main,New York,New York,United States
+241,200,LOC-000241,Main,Atlanta,Georgia,United States
+242,201,LOC-000242,Main,Jacksonville,Florida,United States
+243,202,LOC-000243,Main,Los Angeles,California,United States
+244,202,LOC-000244,East,Los Angeles,California,United States
+245,203,LOC-000245,Main,Atlanta,Georgia,United States
+246,204,LOC-000246,Main,Boston,Massachusetts,United States
+247,205,LOC-000247,Main,Jacksonville,Florida,United States
+248,206,LOC-000248,Main,Los Angeles,California,United States
+249,207,LOC-000249,Main,Portland,Oregon,United States
+250,208,LOC-000250,Main,Portland,Oregon,United States
+251,209,LOC-000251,Main,Atlanta,Georgia,United States
+252,210,LOC-000252,Main,San Antonio,Texas,United States
+253,211,LOC-000253,Main,San Antonio,Texas,United States
+254,212,LOC-000254,Main,Chicago,Illinois,United States
+255,213,LOC-000255,Main,Austin,Texas,United States
+256,214,LOC-000256,Main,Denver,Colorado,United States
+257,215,LOC-000257,Main,Houston,Texas,United States
+258,216,LOC-000258,Main,Los Angeles,California,United States
+259,217,LOC-000259,Main,Dallas,Texas,United States
+260,217,LOC-000260,Uptown,Dallas,Texas,United States
+261,218,LOC-000261,Main,Houston,Texas,United States
+262,219,LOC-000262,Main,Atlanta,Georgia,United States
+263,219,LOC-000263,Parkway,Atlanta,Georgia,United States
+264,220,LOC-000264,Main,Denver,Colorado,United States
+265,221,LOC-000265,Main,Portland,Oregon,United States
+266,222,LOC-000266,Main,Seattle,Washington,United States
+267,223,LOC-000267,Main,Atlanta,Georgia,United States
+268,224,LOC-000268,Main,Charlotte,North Carolina,United States
+269,225,LOC-000269,Main,Philadelphia,Pennsylvania,United States
+270,226,LOC-000270,Main,Houston,Texas,United States
+271,226,LOC-000271,Uptown,Houston,Texas,United States
+272,227,LOC-000272,Main,San Antonio,Texas,United States
+273,228,LOC-000273,Main,Jacksonville,Florida,United States
+274,229,LOC-000274,Main,Dallas,Texas,United States
+275,230,LOC-000275,Main,Chicago,Illinois,United States
+276,231,LOC-000276,Main,San Antonio,Texas,United States
+277,232,LOC-000277,Main,San Francisco,California,United States
+278,233,LOC-000278,Main,Miami,Florida,United States
+279,234,LOC-000279,Main,Minneapolis,Minnesota,United States
+280,235,LOC-000280,Main,Austin,Texas,United States
+281,235,LOC-000281,West,Austin,Texas,United States
+282,236,LOC-000282,Main,Charlotte,North Carolina,United States
+283,236,LOC-000283,Downtown,Charlotte,North Carolina,United States
+284,237,LOC-000284,Main,Miami,Florida,United States
+285,238,LOC-000285,Main,Jacksonville,Florida,United States
+286,239,LOC-000286,Main,Seattle,Washington,United States
+287,239,LOC-000287,Downtown,Seattle,Washington,United States
+288,239,LOC-000288,Lakeside,Seattle,Washington,United States
+289,240,LOC-000289,Main,New York,New York,United States
+290,241,LOC-000290,Main,Boston,Massachusetts,United States
+291,242,LOC-000291,Main,Phoenix,Arizona,United States
+292,243,LOC-000292,Main,Denver,Colorado,United States
+293,244,LOC-000293,Main,Denver,Colorado,United States
+294,245,LOC-000294,Main,New York,New York,United States
+295,246,LOC-000295,Main,Seattle,Washington,United States
+296,247,LOC-000296,Main,Dallas,Texas,United States
+297,248,LOC-000297,Main,San Francisco,California,United States
+298,249,LOC-000298,Main,Seattle,Washington,United States
+299,250,LOC-000299,Main,Seattle,Washington,United States
+300,250,LOC-000300,South,Seattle,Washington,United States

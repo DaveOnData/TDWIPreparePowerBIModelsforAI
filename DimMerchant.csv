@@ -1,0 +1,251 @@
+MerchantKey,MerchantID,MerchantName,MerchantType
+1,BUS-000001,Silver Hair Co.,Hair Salon
+2,BUS-000002,Meadow Nail Studio,Nail Salon
+3,BUS-000003,Willow Collective,Hair Salon
+4,BUS-000004,Harbor Esthetics,Spa / Esthetics
+5,BUS-000005,Maple Spa,Spa / Esthetics
+6,BUS-000006,Magnolia Collective,Hair Salon
+7,BUS-000007,Urban Skin Studio,Spa / Esthetics
+8,BUS-000008,Sage Spa,Spa / Esthetics
+9,BUS-000009,Meadow Studio,Hair Salon
+10,BUS-000010,Oak Barber Studio,Barber Shop
+11,BUS-000011,Radiant Nail Co.,Nail Salon
+12,BUS-000012,Copper Skin Studio,Spa / Esthetics
+13,BUS-000013,Wildflower Polish Studio,Nail Salon
+14,BUS-000014,Northstar Cut House,Barber Shop
+15,BUS-000015,Juniper Nail Co.,Nail Salon
+16,BUS-000016,Willow Beauty Studio,Hair Salon
+17,BUS-000017,Velvet Nail Studio,Nail Salon
+18,BUS-000018,Bloom Skin Co.,Spa / Esthetics
+19,BUS-000019,Bluebird Wellness Studio,Spa / Esthetics
+20,BUS-000020,Copper Esthetics,Spa / Esthetics
+21,BUS-000021,Meadow Hair Co.,Hair Salon
+22,BUS-000022,Cedar Nail Studio,Nail Salon
+23,BUS-000023,Bloom Wellness Studio,Spa / Esthetics
+24,BUS-000024,Copper Studio,Hair Salon
+25,BUS-000025,Bloom Cut House,Barber Shop
+26,BUS-000026,Bluebird Barber Studio,Barber Shop
+27,BUS-000027,Stone Spa,Spa / Esthetics
+28,BUS-000028,River Studio,Hair Salon
+29,BUS-000029,Bright Salon,Hair Salon
+30,BUS-000030,Northstar Wellness Studio,Spa / Esthetics
+31,BUS-000031,Velvet Studio,Hair Salon
+32,BUS-000032,Golden Barbers,Barber Shop
+33,BUS-000033,Solstice Cut House,Barber Shop
+34,BUS-000034,Copper Nail Studio,Nail Salon
+35,BUS-000035,Citrine Nails,Nail Salon
+36,BUS-000036,Oak Grooming Co.,Barber Shop
+37,BUS-000037,Radiant Barber Co.,Barber Shop
+38,BUS-000038,Stone Grooming Co.,Barber Shop
+39,BUS-000039,Maple Wellness Studio,Spa / Esthetics
+40,BUS-000040,Maple Nail Co.,Nail Salon
+41,BUS-000041,Solstice Studio,Hair Salon
+42,BUS-000042,Northstar Studio,Hair Salon
+43,BUS-000043,Sage Collective,Hair Salon
+44,BUS-000044,Urban Collective,Hair Salon
+45,BUS-000045,Summit Barbers,Barber Shop
+46,BUS-000046,Harbor Salon,Hair Salon
+47,BUS-000047,Golden Nail Bar,Nail Salon
+48,BUS-000048,Sage Barbers,Barber Shop
+49,BUS-000049,Silver Barbers,Barber Shop
+50,BUS-000050,Juniper Nails,Nail Salon
+51,BUS-000051,Urban Nails,Nail Salon
+52,BUS-000052,Stone Nail Bar,Nail Salon
+53,BUS-000053,Summit Skin Studio,Spa / Esthetics
+54,BUS-000054,Aspen Polish Studio,Nail Salon
+55,BUS-000055,Summit Nail Bar,Nail Salon
+56,BUS-000056,Wildflower Cut House,Barber Shop
+57,BUS-000057,Evergreen Nail Co.,Nail Salon
+58,BUS-000058,Summit Cut House,Barber Shop
+59,BUS-000059,Luna Barbers,Barber Shop
+60,BUS-000060,Bloom Barber Co.,Barber Shop
+61,BUS-000061,Citrine Wellness Studio,Spa / Esthetics
+62,BUS-000062,Willow Esthetics,Spa / Esthetics
+63,BUS-000063,Urban Esthetics,Spa / Esthetics
+64,BUS-000064,Stone Hair Co.,Hair Salon
+65,BUS-000065,Silver Nails,Nail Salon
+66,BUS-000066,Juniper Skin Co.,Spa / Esthetics
+67,BUS-000067,Aspen Nails,Nail Salon
+68,BUS-000068,Oak Collective,Hair Salon
+69,BUS-000069,Summit Grooming Co.,Barber Shop
+70,BUS-000070,Mosaic Barber Studio,Barber Shop
+71,BUS-000071,Evergreen Barber Studio,Barber Shop
+72,BUS-000072,Bright Hair Co.,Hair Salon
+73,BUS-000073,Citrine Studio,Hair Salon
+74,BUS-000074,Aspen Skin Studio,Spa / Esthetics
+75,BUS-000075,Citrine Polish Studio,Nail Salon
+76,BUS-000076,Urban Barber Co.,Barber Shop
+77,BUS-000077,Juniper Skin Studio,Spa / Esthetics
+78,BUS-000078,Harbor Grooming Co.,Barber Shop
+79,BUS-000079,Radiant Salon,Hair Salon
+80,BUS-000080,Meadow Skin Co.,Spa / Esthetics
+81,BUS-000081,Evergreen Collective,Hair Salon
+82,BUS-000082,Urban Cut House,Barber Shop
+83,BUS-000083,Cedar Salon,Hair Salon
+84,BUS-000084,Modern Cut House,Barber Shop
+85,BUS-000085,Summit Wellness Studio,Spa / Esthetics
+86,BUS-000086,Oak Skin Co.,Spa / Esthetics
+87,BUS-000087,Wildflower Wellness Studio,Spa / Esthetics
+88,BUS-000088,Luna Collective,Hair Salon
+89,BUS-000089,Velvet Polish Studio,Nail Salon
+90,BUS-000090,Modern Grooming Co.,Barber Shop
+91,BUS-000091,Sage Studio,Hair Salon
+92,BUS-000092,Evergreen Skin Co.,Spa / Esthetics
+93,BUS-000093,Urban Wellness Studio,Spa / Esthetics
+94,BUS-000094,Mosaic Studio,Hair Salon
+95,BUS-000095,Stone Barber Co.,Barber Shop
+96,BUS-000096,Evergreen Wellness Studio,Spa / Esthetics
+97,BUS-000097,Stone Studio,Hair Salon
+98,BUS-000098,Copper Barber Studio,Barber Shop
+99,BUS-000099,Bloom Skin Studio,Spa / Esthetics
+100,BUS-000100,Bloom Collective,Hair Salon
+101,BUS-000101,Solstice Skin Co.,Spa / Esthetics
+102,BUS-000102,Citrine Beauty Studio,Hair Salon
+103,BUS-000103,Maple Barber Co.,Barber Shop
+104,BUS-000104,Meadow Nails,Nail Salon
+105,BUS-000105,Northstar Collective,Hair Salon
+106,BUS-000106,Summit Nails,Nail Salon
+107,BUS-000107,Oak Nails,Nail Salon
+108,BUS-000108,Juniper Cut House,Barber Shop
+109,BUS-000109,Harbor Nails,Nail Salon
+110,BUS-000110,Velvet Barber Studio,Barber Shop
+111,BUS-000111,Mosaic Hair Co.,Hair Salon
+112,BUS-000112,Velvet Skin Co.,Spa / Esthetics
+113,BUS-000113,Oak Barber Co.,Barber Shop
+114,BUS-000114,Bluebird Barbers,Barber Shop
+115,BUS-000115,Golden Studio,Hair Salon
+116,BUS-000116,Copper Beauty Studio,Hair Salon
+117,BUS-000117,Willow Nail Bar,Nail Salon
+118,BUS-000118,Modern Beauty Studio,Hair Salon
+119,BUS-000119,Evergreen Salon,Hair Salon
+120,BUS-000120,Maple Studio,Hair Salon
+121,BUS-000121,Bloom Spa,Spa / Esthetics
+122,BUS-000122,Aspen Barber Studio,Barber Shop
+123,BUS-000123,Urban Barbers,Barber Shop
+124,BUS-000124,Juniper Grooming Co.,Barber Shop
+125,BUS-000125,Sage Salon,Hair Salon
+126,BUS-000126,Mosaic Wellness Studio,Spa / Esthetics
+127,BUS-000127,Bright Collective,Hair Salon
+128,BUS-000128,Copper Grooming Co.,Barber Shop
+129,BUS-000129,Aspen Salon,Hair Salon
+130,BUS-000130,Stone Barbers,Barber Shop
+131,BUS-000131,Summit Beauty Studio,Hair Salon
+132,BUS-000132,Bluebird Studio,Hair Salon
+133,BUS-000133,Harbor Barber Studio,Barber Shop
+134,BUS-000134,Juniper Barbers,Barber Shop
+135,BUS-000135,Maple Cut House,Barber Shop
+136,BUS-000136,Solstice Barber Co.,Barber Shop
+137,BUS-000137,Northstar Beauty Studio,Hair Salon
+138,BUS-000138,Mosaic Salon,Hair Salon
+139,BUS-000139,Magnolia Beauty Studio,Hair Salon
+140,BUS-000140,Bloom Nail Bar,Nail Salon
+141,BUS-000141,Aspen Barber Co.,Barber Shop
+142,BUS-000142,Luna Barber Studio,Barber Shop
+143,BUS-000143,Summit Salon,Hair Salon
+144,BUS-000144,Silver Esthetics,Spa / Esthetics
+145,BUS-000145,River Nail Co.,Nail Salon
+146,BUS-000146,Wildflower Beauty Studio,Hair Salon
+147,BUS-000147,Luna Hair Co.,Hair Salon
+148,BUS-000148,Solstice Nails,Nail Salon
+149,BUS-000149,Maple Skin Co.,Spa / Esthetics
+150,BUS-000150,Evergreen Hair Co.,Hair Salon
+151,BUS-000151,Velvet Barber Co.,Barber Shop
+152,BUS-000152,Solstice Grooming Co.,Barber Shop
+153,BUS-000153,Aspen Nail Bar,Nail Salon
+154,BUS-000154,Modern Skin Co.,Spa / Esthetics
+155,BUS-000155,Radiant Collective,Hair Salon
+156,BUS-000156,Velvet Skin Studio,Spa / Esthetics
+157,BUS-000157,Mosaic Beauty Studio,Hair Salon
+158,BUS-000158,Willow Spa,Spa / Esthetics
+159,BUS-000159,Harbor Skin Studio,Spa / Esthetics
+160,BUS-000160,Bluebird Salon,Hair Salon
+161,BUS-000161,Bloom Hair Co.,Hair Salon
+162,BUS-000162,Evergreen Nails,Nail Salon
+163,BUS-000163,Bluebird Collective,Hair Salon
+164,BUS-000164,Citrine Grooming Co.,Barber Shop
+165,BUS-000165,Aspen Hair Co.,Hair Salon
+166,BUS-000166,Solstice Hair Co.,Hair Salon
+167,BUS-000167,River Beauty Studio,Hair Salon
+168,BUS-000168,Copper Nail Co.,Nail Salon
+169,BUS-000169,Wildflower Nail Studio,Nail Salon
+170,BUS-000170,Bluebird Nail Co.,Nail Salon
+171,BUS-000171,Luna Studio,Hair Salon
+172,BUS-000172,Velvet Nail Co.,Nail Salon
+173,BUS-000173,Wildflower Nail Bar,Nail Salon
+174,BUS-000174,Bright Beauty Studio,Hair Salon
+175,BUS-000175,Radiant Hair Co.,Hair Salon
+176,BUS-000176,Mosaic Nail Studio,Nail Salon
+177,BUS-000177,Urban Nail Studio,Nail Salon
+178,BUS-000178,Bright Studio,Hair Salon
+179,BUS-000179,Luna Cut House,Barber Shop
+180,BUS-000180,Velvet Esthetics,Spa / Esthetics
+181,BUS-000181,Velvet Collective,Hair Salon
+182,BUS-000182,Golden Spa,Spa / Esthetics
+183,BUS-000183,Mosaic Cut House,Barber Shop
+184,BUS-000184,Magnolia Grooming Co.,Barber Shop
+185,BUS-000185,Evergreen Beauty Studio,Hair Salon
+186,BUS-000186,Oak Barbers,Barber Shop
+187,BUS-000187,River Collective,Hair Salon
+188,BUS-000188,Oak Hair Co.,Hair Salon
+189,BUS-000189,Solstice Wellness Studio,Spa / Esthetics
+190,BUS-000190,River Hair Co.,Hair Salon
+191,BUS-000191,Oak Studio,Hair Salon
+192,BUS-000192,Wildflower Skin Studio,Spa / Esthetics
+193,BUS-000193,Sage Skin Co.,Spa / Esthetics
+194,BUS-000194,Magnolia Cut House,Barber Shop
+195,BUS-000195,Sage Beauty Studio,Hair Salon
+196,BUS-000196,Urban Barber Studio,Barber Shop
+197,BUS-000197,Bright Barber Studio,Barber Shop
+198,BUS-000198,Mosaic Skin Co.,Spa / Esthetics
+199,BUS-000199,Harbor Hair Co.,Hair Salon
+200,BUS-000200,Silver Nail Co.,Nail Salon
+201,BUS-000201,Bluebird Polish Studio,Nail Salon
+202,BUS-000202,Sage Cut House,Barber Shop
+203,BUS-000203,Solstice Beauty Studio,Hair Salon
+204,BUS-000204,Cedar Hair Co.,Hair Salon
+205,BUS-000205,Bright Nail Co.,Nail Salon
+206,BUS-000206,Silver Beauty Studio,Hair Salon
+207,BUS-000207,Golden Nail Studio,Nail Salon
+208,BUS-000208,Solstice Salon,Hair Salon
+209,BUS-000209,Maple Beauty Studio,Hair Salon
+210,BUS-000210,Velvet Nails,Nail Salon
+211,BUS-000211,Bluebird Skin Studio,Spa / Esthetics
+212,BUS-000212,Urban Studio,Hair Salon
+213,BUS-000213,Luna Beauty Studio,Hair Salon
+214,BUS-000214,Wildflower Studio,Hair Salon
+215,BUS-000215,Bluebird Esthetics,Spa / Esthetics
+216,BUS-000216,Juniper Collective,Hair Salon
+217,BUS-000217,Solstice Polish Studio,Nail Salon
+218,BUS-000218,Juniper Esthetics,Spa / Esthetics
+219,BUS-000219,Meadow Nail Bar,Nail Salon
+220,BUS-000220,Magnolia Salon,Hair Salon
+221,BUS-000221,Wildflower Salon,Hair Salon
+222,BUS-000222,Wildflower Collective,Hair Salon
+223,BUS-000223,Meadow Grooming Co.,Barber Shop
+224,BUS-000224,Bluebird Grooming Co.,Barber Shop
+225,BUS-000225,Magnolia Hair Co.,Hair Salon
+226,BUS-000226,Copper Collective,Hair Salon
+227,BUS-000227,River Nail Bar,Nail Salon
+228,BUS-000228,Wildflower Nail Co.,Nail Salon
+229,BUS-000229,Modern Nails,Nail Salon
+230,BUS-000230,Solstice Nail Co.,Nail Salon
+231,BUS-000231,Citrine Collective,Hair Salon
+232,BUS-000232,Modern Hair Co.,Hair Salon
+233,BUS-000233,Silver Salon,Hair Salon
+234,BUS-000234,Northstar Spa,Spa / Esthetics
+235,BUS-000235,Luna Salon,Hair Salon
+236,BUS-000236,Aspen Wellness Studio,Spa / Esthetics
+237,BUS-000237,Modern Barber Co.,Barber Shop
+238,BUS-000238,Modern Barbers,Barber Shop
+239,BUS-000239,Silver Studio,Hair Salon
+240,BUS-000240,Modern Polish Studio,Nail Salon
+241,BUS-000241,Cedar Nail Bar,Nail Salon
+242,BUS-000242,Bloom Studio,Hair Salon
+243,BUS-000243,Meadow Barber Studio,Barber Shop
+244,BUS-000244,Solstice Barbers,Barber Shop
+245,BUS-000245,Summit Studio,Hair Salon
+246,BUS-000246,Solstice Esthetics,Spa / Esthetics
+247,BUS-000247,Cedar Barber Co.,Barber Shop
+248,BUS-000248,Juniper Barber Studio,Barber Shop
+249,BUS-000249,Magnolia Wellness Studio,Spa / Esthetics
+250,BUS-000250,Bright Cut House,Barber Shop
