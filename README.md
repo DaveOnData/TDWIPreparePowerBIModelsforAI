@@ -1,2 +1,2 @@
 # TDWIPreparePowerBIModelsforAI
-Repository for the TDWI 1-Day course "Preparing Power BI Models for AI"
+These are the raw data files used to create the course's Fabric lakehouse.
